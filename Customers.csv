@@ -1,0 +1,2001 @@
+CustomerID,FirstPurchaseDate,AcquisitionPromoType,Channel
+C00001,2024-04-27,Percent Off,Email
+C00002,2024-07-12,None,Google Ads
+C00003,2024-04-18,Percent Off,Organic
+C00004,2024-11-17,Percent Off,Organic
+C00005,2024-08-18,None,Google Ads
+C00006,2024-07-31,None,Google Ads
+C00007,2024-02-05,BOGOF,Paid Social
+C00008,2024-06-15,None,Google Ads
+C00009,2024-04-10,BOGOF,Paid Social
+C00010,2024-01-15,None,Google Ads
+C00011,2024-10-30,None,Google Ads
+C00012,2024-06-10,Percent Off,Email
+C00013,2024-01-03,Percent Off,Email
+C00014,2024-08-01,Percent Off,Organic
+C00015,2024-09-26,None,Google Ads
+C00016,2024-03-09,Free Shipping,Organic
+C00017,2024-10-27,Percent Off,Organic
+C00018,2024-01-04,Percent Off,Google Ads
+C00019,2024-08-27,Percent Off,Google Ads
+C00020,2024-05-24,Percent Off,Email
+C00021,2024-02-07,Percent Off,Email
+C00022,2024-12-09,Percent Off,Paid Social
+C00023,2024-06-22,Free Shipping,Google Ads
+C00024,2024-01-31,Percent Off,Paid Social
+C00025,2024-06-16,None,Email
+C00026,2024-05-12,None,Google Ads
+C00027,2024-12-04,Percent Off,Organic
+C00028,2024-07-20,Percent Off,Google Ads
+C00029,2024-12-07,None,Paid Social
+C00030,2024-05-30,Percent Off,Paid Social
+C00031,2024-02-12,BOGOF,Paid Social
+C00032,2024-06-04,Percent Off,Paid Social
+C00033,2024-08-16,Percent Off,Paid Social
+C00034,2024-07-14,None,Paid Social
+C00035,2024-01-06,BOGOF,Paid Social
+C00036,2024-10-04,Percent Off,Google Ads
+C00037,2024-04-22,Percent Off,Google Ads
+C00038,2024-05-20,None,Paid Social
+C00039,2024-07-13,None,Email
+C00040,2024-03-11,Free Shipping,Email
+C00041,2024-01-08,Percent Off,Paid Social
+C00042,2024-08-29,Percent Off,Google Ads
+C00043,2024-10-08,Percent Off,Google Ads
+C00044,2024-09-28,Percent Off,Email
+C00045,2024-01-14,None,Organic
+C00046,2024-11-06,None,Email
+C00047,2024-02-26,Free Shipping,Google Ads
+C00048,2024-04-12,Percent Off,Google Ads
+C00049,2024-12-31,None,Organic
+C00050,2024-04-26,None,Google Ads
+C00051,2024-03-16,BOGOF,Email
+C00052,2024-07-15,Percent Off,Paid Social
+C00053,2024-12-23,Percent Off,Email
+C00054,2024-03-12,Free Shipping,Email
+C00055,2024-07-24,Percent Off,Paid Social
+C00056,2024-11-13,None,Organic
+C00057,2024-02-15,None,Google Ads
+C00058,2024-01-25,BOGOF,Google Ads
+C00059,2024-02-26,Percent Off,Organic
+C00060,2024-12-21,Percent Off,Organic
+C00061,2024-10-27,None,Paid Social
+C00062,2024-08-01,BOGOF,Email
+C00063,2024-10-31,Percent Off,Organic
+C00064,2024-09-26,None,Organic
+C00065,2024-04-11,Percent Off,Organic
+C00066,2024-01-23,None,Google Ads
+C00067,2024-11-13,None,Organic
+C00068,2024-10-01,Free Shipping,Email
+C00069,2024-05-13,None,Google Ads
+C00070,2024-05-27,BOGOF,Email
+C00071,2024-04-12,None,Email
+C00072,2024-10-09,Percent Off,Email
+C00073,2024-06-23,None,Google Ads
+C00074,2024-01-14,Percent Off,Organic
+C00075,2024-10-01,None,Paid Social
+C00076,2024-08-08,Percent Off,Paid Social
+C00077,2024-01-14,Percent Off,Paid Social
+C00078,2024-01-28,Percent Off,Google Ads
+C00079,2024-08-04,None,Paid Social
+C00080,2024-12-12,Free Shipping,Google Ads
+C00081,2024-09-08,BOGOF,Google Ads
+C00082,2024-09-29,Percent Off,Paid Social
+C00083,2024-05-01,None,Email
+C00084,2024-06-30,Percent Off,Email
+C00085,2024-04-02,BOGOF,Email
+C00086,2024-06-13,None,Paid Social
+C00087,2024-10-01,Percent Off,Email
+C00088,2024-10-05,Percent Off,Email
+C00089,2024-11-27,None,Google Ads
+C00090,2024-03-26,None,Organic
+C00091,2024-10-16,None,Google Ads
+C00092,2024-04-07,Percent Off,Google Ads
+C00093,2024-01-19,Percent Off,Email
+C00094,2024-03-23,None,Google Ads
+C00095,2024-03-08,None,Paid Social
+C00096,2024-11-01,BOGOF,Email
+C00097,2024-07-30,None,Email
+C00098,2024-07-22,None,Paid Social
+C00099,2024-12-09,Percent Off,Paid Social
+C00100,2024-08-19,None,Google Ads
+C00101,2024-05-01,Free Shipping,Organic
+C00102,2024-08-14,BOGOF,Email
+C00103,2024-07-02,Percent Off,Google Ads
+C00104,2024-05-08,Percent Off,Organic
+C00105,2024-01-24,BOGOF,Organic
+C00106,2024-02-16,Percent Off,Email
+C00107,2024-09-08,BOGOF,Google Ads
+C00108,2024-05-08,Percent Off,Paid Social
+C00109,2024-03-19,Percent Off,Organic
+C00110,2024-08-18,BOGOF,Google Ads
+C00111,2024-11-24,BOGOF,Google Ads
+C00112,2024-10-28,Percent Off,Google Ads
+C00113,2024-01-26,None,Google Ads
+C00114,2024-07-18,None,Google Ads
+C00115,2024-02-10,None,Organic
+C00116,2024-02-11,BOGOF,Google Ads
+C00117,2024-04-18,Percent Off,Google Ads
+C00118,2024-08-26,Free Shipping,Google Ads
+C00119,2024-09-20,Percent Off,Paid Social
+C00120,2024-11-29,BOGOF,Organic
+C00121,2024-11-12,None,Email
+C00122,2024-09-27,None,Organic
+C00123,2024-06-29,Free Shipping,Organic
+C00124,2024-01-15,None,Google Ads
+C00125,2024-02-28,BOGOF,Email
+C00126,2024-12-21,Percent Off,Email
+C00127,2024-10-23,None,Google Ads
+C00128,2024-09-14,Free Shipping,Email
+C00129,2024-06-18,Free Shipping,Organic
+C00130,2024-07-05,None,Email
+C00131,2024-09-16,None,Google Ads
+C00132,2024-01-27,BOGOF,Google Ads
+C00133,2024-02-06,Free Shipping,Google Ads
+C00134,2024-06-17,Free Shipping,Google Ads
+C00135,2024-03-24,None,Google Ads
+C00136,2024-01-18,BOGOF,Google Ads
+C00137,2024-07-25,Percent Off,Organic
+C00138,2024-10-28,Percent Off,Email
+C00139,2024-06-19,BOGOF,Email
+C00140,2024-07-06,None,Paid Social
+C00141,2024-03-14,Percent Off,Paid Social
+C00142,2024-06-23,Percent Off,Email
+C00143,2024-04-19,None,Email
+C00144,2024-10-06,None,Paid Social
+C00145,2024-01-26,None,Google Ads
+C00146,2024-07-12,Percent Off,Google Ads
+C00147,2024-05-01,BOGOF,Email
+C00148,2024-08-02,None,Google Ads
+C00149,2024-01-11,None,Organic
+C00150,2024-07-17,Percent Off,Paid Social
+C00151,2024-12-19,None,Paid Social
+C00152,2024-08-20,Free Shipping,Organic
+C00153,2024-10-27,Free Shipping,Organic
+C00154,2024-03-11,Percent Off,Email
+C00155,2024-06-13,Percent Off,Google Ads
+C00156,2024-11-06,BOGOF,Email
+C00157,2024-02-22,None,Email
+C00158,2024-07-11,Percent Off,Google Ads
+C00159,2024-01-13,None,Email
+C00160,2024-01-11,None,Google Ads
+C00161,2024-02-28,Free Shipping,Email
+C00162,2024-03-03,None,Paid Social
+C00163,2024-08-19,Percent Off,Email
+C00164,2024-08-11,Free Shipping,Email
+C00165,2024-02-24,Percent Off,Email
+C00166,2024-05-29,Percent Off,Google Ads
+C00167,2024-01-07,Free Shipping,Organic
+C00168,2024-12-06,None,Google Ads
+C00169,2024-03-29,Free Shipping,Google Ads
+C00170,2024-08-23,Percent Off,Paid Social
+C00171,2024-11-29,Percent Off,Organic
+C00172,2024-04-07,BOGOF,Organic
+C00173,2024-12-12,Percent Off,Google Ads
+C00174,2024-02-13,None,Organic
+C00175,2024-12-15,Free Shipping,Paid Social
+C00176,2024-07-25,None,Paid Social
+C00177,2024-07-15,Free Shipping,Email
+C00178,2024-06-26,BOGOF,Email
+C00179,2024-06-27,BOGOF,Google Ads
+C00180,2024-08-15,Percent Off,Paid Social
+C00181,2024-11-23,BOGOF,Organic
+C00182,2024-09-18,None,Google Ads
+C00183,2024-05-22,Free Shipping,Paid Social
+C00184,2024-04-23,None,Google Ads
+C00185,2024-07-04,BOGOF,Email
+C00186,2024-12-02,None,Paid Social
+C00187,2024-03-28,BOGOF,Google Ads
+C00188,2024-09-29,Free Shipping,Organic
+C00189,2024-06-10,Percent Off,Paid Social
+C00190,2024-11-25,Percent Off,Organic
+C00191,2024-10-06,None,Email
+C00192,2024-04-04,None,Paid Social
+C00193,2024-01-10,None,Paid Social
+C00194,2024-06-12,Free Shipping,Email
+C00195,2024-01-11,None,Paid Social
+C00196,2024-12-05,None,Organic
+C00197,2024-09-15,None,Email
+C00198,2024-05-30,BOGOF,Google Ads
+C00199,2024-09-21,None,Email
+C00200,2024-06-08,Percent Off,Paid Social
+C00201,2024-03-02,None,Google Ads
+C00202,2024-01-13,Percent Off,Organic
+C00203,2024-03-03,Percent Off,Google Ads
+C00204,2024-11-05,None,Paid Social
+C00205,2024-04-13,Percent Off,Paid Social
+C00206,2024-03-13,None,Google Ads
+C00207,2024-07-30,None,Google Ads
+C00208,2024-11-06,BOGOF,Paid Social
+C00209,2024-04-03,None,Email
+C00210,2024-01-24,None,Organic
+C00211,2024-11-09,BOGOF,Email
+C00212,2024-04-01,None,Paid Social
+C00213,2024-12-21,None,Paid Social
+C00214,2024-08-23,None,Paid Social
+C00215,2024-04-17,BOGOF,Google Ads
+C00216,2024-03-24,Free Shipping,Email
+C00217,2024-12-16,Free Shipping,Organic
+C00218,2024-04-17,BOGOF,Email
+C00219,2024-06-19,Percent Off,Organic
+C00220,2024-01-21,None,Paid Social
+C00221,2024-07-10,Percent Off,Email
+C00222,2024-10-09,None,Email
+C00223,2024-09-07,None,Email
+C00224,2024-07-04,None,Paid Social
+C00225,2024-03-05,Free Shipping,Google Ads
+C00226,2024-03-03,None,Google Ads
+C00227,2024-07-11,None,Google Ads
+C00228,2024-09-16,BOGOF,Google Ads
+C00229,2024-07-15,None,Paid Social
+C00230,2024-02-22,Percent Off,Paid Social
+C00231,2024-04-01,Percent Off,Email
+C00232,2024-02-06,Free Shipping,Google Ads
+C00233,2024-08-13,Percent Off,Paid Social
+C00234,2024-05-30,Free Shipping,Google Ads
+C00235,2024-10-15,Free Shipping,Email
+C00236,2024-08-27,BOGOF,Google Ads
+C00237,2024-04-07,None,Organic
+C00238,2024-06-05,Free Shipping,Google Ads
+C00239,2024-10-23,Percent Off,Organic
+C00240,2024-07-19,BOGOF,Google Ads
+C00241,2024-11-29,Percent Off,Google Ads
+C00242,2024-07-31,None,Email
+C00243,2024-01-31,Percent Off,Email
+C00244,2024-06-02,Percent Off,Email
+C00245,2024-03-12,Free Shipping,Paid Social
+C00246,2024-06-29,None,Email
+C00247,2024-04-05,None,Organic
+C00248,2024-07-24,Percent Off,Email
+C00249,2024-03-15,None,Organic
+C00250,2024-09-29,None,Paid Social
+C00251,2024-12-09,None,Paid Social
+C00252,2024-10-11,BOGOF,Paid Social
+C00253,2024-12-25,BOGOF,Email
+C00254,2024-05-03,Percent Off,Paid Social
+C00255,2024-11-01,BOGOF,Email
+C00256,2024-11-29,Free Shipping,Google Ads
+C00257,2024-03-08,BOGOF,Email
+C00258,2024-09-16,Free Shipping,Google Ads
+C00259,2024-01-30,None,Email
+C00260,2024-02-16,Percent Off,Organic
+C00261,2024-01-26,Free Shipping,Google Ads
+C00262,2024-05-14,None,Email
+C00263,2024-03-22,BOGOF,Google Ads
+C00264,2024-05-20,Free Shipping,Google Ads
+C00265,2024-12-26,Free Shipping,Email
+C00266,2024-02-24,BOGOF,Organic
+C00267,2024-12-26,BOGOF,Email
+C00268,2024-02-09,Percent Off,Email
+C00269,2024-10-06,Percent Off,Google Ads
+C00270,2024-01-26,Percent Off,Email
+C00271,2024-01-21,Free Shipping,Email
+C00272,2024-05-26,None,Email
+C00273,2024-03-15,Free Shipping,Google Ads
+C00274,2024-08-18,Percent Off,Google Ads
+C00275,2024-10-31,Free Shipping,Google Ads
+C00276,2024-10-05,Percent Off,Paid Social
+C00277,2024-03-31,Percent Off,Email
+C00278,2024-01-20,None,Google Ads
+C00279,2024-02-17,None,Organic
+C00280,2024-07-30,None,Email
+C00281,2024-04-01,BOGOF,Email
+C00282,2024-01-14,None,Email
+C00283,2024-01-27,Percent Off,Organic
+C00284,2024-01-18,Free Shipping,Paid Social
+C00285,2024-02-09,Percent Off,Organic
+C00286,2024-01-04,Percent Off,Organic
+C00287,2024-08-28,None,Google Ads
+C00288,2024-07-05,BOGOF,Paid Social
+C00289,2024-11-05,Percent Off,Email
+C00290,2024-10-29,BOGOF,Paid Social
+C00291,2024-07-11,BOGOF,Paid Social
+C00292,2024-03-22,Percent Off,Organic
+C00293,2024-01-24,BOGOF,Email
+C00294,2024-09-10,Percent Off,Paid Social
+C00295,2024-02-04,Free Shipping,Google Ads
+C00296,2024-03-08,Free Shipping,Paid Social
+C00297,2024-07-06,BOGOF,Organic
+C00298,2024-05-28,Free Shipping,Email
+C00299,2024-11-30,BOGOF,Paid Social
+C00300,2024-03-24,BOGOF,Organic
+C00301,2024-12-08,BOGOF,Paid Social
+C00302,2024-07-07,BOGOF,Paid Social
+C00303,2024-07-24,Free Shipping,Organic
+C00304,2024-07-27,Percent Off,Email
+C00305,2024-04-18,None,Google Ads
+C00306,2024-09-20,Percent Off,Google Ads
+C00307,2024-01-07,None,Email
+C00308,2024-10-05,BOGOF,Organic
+C00309,2024-01-27,BOGOF,Email
+C00310,2024-05-28,None,Email
+C00311,2024-07-20,Percent Off,Email
+C00312,2024-05-05,None,Email
+C00313,2024-01-11,None,Paid Social
+C00314,2024-01-23,BOGOF,Email
+C00315,2024-08-16,Free Shipping,Email
+C00316,2024-02-26,None,Google Ads
+C00317,2024-04-15,Percent Off,Organic
+C00318,2024-09-18,Free Shipping,Google Ads
+C00319,2024-04-30,Percent Off,Google Ads
+C00320,2024-01-05,None,Organic
+C00321,2024-07-05,Percent Off,Paid Social
+C00322,2024-03-19,None,Email
+C00323,2024-04-07,Percent Off,Paid Social
+C00324,2024-01-28,Percent Off,Organic
+C00325,2024-03-24,None,Google Ads
+C00326,2024-11-28,Free Shipping,Google Ads
+C00327,2024-03-21,Free Shipping,Google Ads
+C00328,2024-07-23,None,Email
+C00329,2024-10-23,None,Google Ads
+C00330,2024-12-17,Percent Off,Google Ads
+C00331,2024-02-24,Percent Off,Paid Social
+C00332,2024-10-28,None,Email
+C00333,2024-06-15,Free Shipping,Google Ads
+C00334,2024-07-12,Percent Off,Organic
+C00335,2024-05-09,Percent Off,Email
+C00336,2024-03-27,Percent Off,Email
+C00337,2024-08-18,BOGOF,Email
+C00338,2024-01-10,None,Organic
+C00339,2024-09-27,BOGOF,Paid Social
+C00340,2024-06-01,Percent Off,Email
+C00341,2024-12-09,Percent Off,Paid Social
+C00342,2024-02-20,None,Paid Social
+C00343,2024-04-01,Free Shipping,Email
+C00344,2024-11-20,None,Google Ads
+C00345,2024-03-21,Percent Off,Email
+C00346,2024-10-17,Percent Off,Organic
+C00347,2024-05-13,None,Email
+C00348,2024-06-23,BOGOF,Email
+C00349,2024-08-18,Free Shipping,Organic
+C00350,2024-12-02,Percent Off,Email
+C00351,2024-06-09,Percent Off,Organic
+C00352,2024-12-20,None,Email
+C00353,2024-08-19,None,Paid Social
+C00354,2024-04-16,BOGOF,Email
+C00355,2024-02-28,Free Shipping,Paid Social
+C00356,2024-10-21,Free Shipping,Organic
+C00357,2024-05-24,BOGOF,Email
+C00358,2024-10-09,BOGOF,Organic
+C00359,2024-04-17,None,Paid Social
+C00360,2024-08-31,None,Email
+C00361,2024-08-05,Free Shipping,Email
+C00362,2024-08-27,None,Email
+C00363,2024-01-21,BOGOF,Google Ads
+C00364,2024-01-21,None,Organic
+C00365,2024-08-12,None,Paid Social
+C00366,2024-04-28,Percent Off,Paid Social
+C00367,2024-07-22,BOGOF,Organic
+C00368,2024-09-16,None,Email
+C00369,2024-01-27,Percent Off,Email
+C00370,2024-12-27,None,Organic
+C00371,2024-12-24,Percent Off,Google Ads
+C00372,2024-02-07,Percent Off,Organic
+C00373,2024-04-18,BOGOF,Email
+C00374,2024-03-16,Percent Off,Organic
+C00375,2024-08-30,None,Paid Social
+C00376,2024-06-25,Percent Off,Paid Social
+C00377,2024-04-24,Percent Off,Paid Social
+C00378,2024-07-14,Percent Off,Organic
+C00379,2024-04-24,Percent Off,Organic
+C00380,2024-03-16,BOGOF,Email
+C00381,2024-01-10,Percent Off,Google Ads
+C00382,2024-10-16,Free Shipping,Paid Social
+C00383,2024-11-28,Percent Off,Organic
+C00384,2024-08-04,BOGOF,Email
+C00385,2024-10-19,None,Google Ads
+C00386,2024-02-06,BOGOF,Email
+C00387,2024-01-14,None,Google Ads
+C00388,2024-02-21,None,Paid Social
+C00389,2024-04-26,Percent Off,Email
+C00390,2024-04-16,None,Organic
+C00391,2024-04-16,None,Organic
+C00392,2024-08-31,Percent Off,Organic
+C00393,2024-01-24,None,Organic
+C00394,2024-03-09,Percent Off,Google Ads
+C00395,2024-01-31,Percent Off,Google Ads
+C00396,2024-09-18,BOGOF,Email
+C00397,2024-08-29,Free Shipping,Organic
+C00398,2024-08-20,Percent Off,Google Ads
+C00399,2024-05-07,None,Paid Social
+C00400,2024-12-07,None,Email
+C00401,2024-07-15,None,Google Ads
+C00402,2024-03-11,None,Paid Social
+C00403,2024-04-03,None,Email
+C00404,2024-06-03,Percent Off,Google Ads
+C00405,2024-06-07,None,Paid Social
+C00406,2024-01-13,None,Paid Social
+C00407,2024-08-11,BOGOF,Email
+C00408,2024-03-06,None,Organic
+C00409,2024-08-03,Percent Off,Organic
+C00410,2024-05-16,Percent Off,Organic
+C00411,2024-06-20,Free Shipping,Email
+C00412,2024-07-09,None,Google Ads
+C00413,2024-12-11,BOGOF,Email
+C00414,2024-05-06,Percent Off,Google Ads
+C00415,2024-04-29,None,Organic
+C00416,2024-11-09,Free Shipping,Paid Social
+C00417,2024-04-13,Percent Off,Organic
+C00418,2024-01-20,Percent Off,Paid Social
+C00419,2024-02-20,BOGOF,Paid Social
+C00420,2024-08-25,None,Organic
+C00421,2024-12-06,BOGOF,Organic
+C00422,2024-11-06,BOGOF,Organic
+C00423,2024-12-06,Percent Off,Email
+C00424,2024-06-11,Free Shipping,Paid Social
+C00425,2024-07-20,Percent Off,Organic
+C00426,2024-04-22,None,Organic
+C00427,2024-11-18,Percent Off,Paid Social
+C00428,2024-07-04,Percent Off,Email
+C00429,2024-09-06,None,Paid Social
+C00430,2024-10-18,Percent Off,Email
+C00431,2024-03-02,Free Shipping,Google Ads
+C00432,2024-06-12,Percent Off,Paid Social
+C00433,2024-06-19,BOGOF,Email
+C00434,2024-06-11,Percent Off,Google Ads
+C00435,2024-03-09,Percent Off,Paid Social
+C00436,2024-09-27,Percent Off,Google Ads
+C00437,2024-01-15,Percent Off,Organic
+C00438,2024-07-22,Percent Off,Email
+C00439,2024-10-24,Percent Off,Paid Social
+C00440,2024-07-12,Percent Off,Organic
+C00441,2024-09-07,Percent Off,Email
+C00442,2024-09-25,None,Email
+C00443,2024-09-08,None,Paid Social
+C00444,2024-05-27,None,Paid Social
+C00445,2024-10-06,None,Google Ads
+C00446,2024-12-27,Free Shipping,Paid Social
+C00447,2024-11-07,None,Organic
+C00448,2024-12-31,None,Email
+C00449,2024-03-03,None,Organic
+C00450,2024-02-20,None,Email
+C00451,2024-01-23,Free Shipping,Organic
+C00452,2024-01-28,Free Shipping,Google Ads
+C00453,2024-08-08,Free Shipping,Google Ads
+C00454,2024-05-22,None,Paid Social
+C00455,2024-04-25,None,Google Ads
+C00456,2024-01-19,BOGOF,Paid Social
+C00457,2024-10-16,Free Shipping,Organic
+C00458,2024-04-09,Percent Off,Paid Social
+C00459,2024-04-24,None,Google Ads
+C00460,2024-02-20,None,Paid Social
+C00461,2024-06-05,None,Organic
+C00462,2024-06-02,None,Google Ads
+C00463,2024-06-22,None,Organic
+C00464,2024-04-19,BOGOF,Paid Social
+C00465,2024-11-14,None,Email
+C00466,2024-01-11,Percent Off,Organic
+C00467,2024-11-20,Percent Off,Organic
+C00468,2024-05-11,Percent Off,Paid Social
+C00469,2024-10-30,None,Paid Social
+C00470,2024-01-30,Percent Off,Paid Social
+C00471,2024-06-15,Free Shipping,Email
+C00472,2024-11-20,BOGOF,Google Ads
+C00473,2024-07-23,None,Email
+C00474,2024-06-28,None,Email
+C00475,2024-11-17,Percent Off,Google Ads
+C00476,2024-05-26,Percent Off,Organic
+C00477,2024-05-01,None,Email
+C00478,2024-12-09,Free Shipping,Google Ads
+C00479,2024-12-09,Free Shipping,Paid Social
+C00480,2024-04-25,Free Shipping,Organic
+C00481,2024-06-24,Free Shipping,Google Ads
+C00482,2024-01-13,Percent Off,Email
+C00483,2024-11-09,BOGOF,Paid Social
+C00484,2024-01-27,None,Email
+C00485,2024-10-18,None,Email
+C00486,2024-01-27,BOGOF,Google Ads
+C00487,2024-07-06,None,Email
+C00488,2024-05-12,None,Organic
+C00489,2024-12-29,BOGOF,Paid Social
+C00490,2024-04-27,Free Shipping,Email
+C00491,2024-08-11,Free Shipping,Email
+C00492,2024-08-05,BOGOF,Google Ads
+C00493,2024-10-02,Percent Off,Paid Social
+C00494,2024-07-23,Free Shipping,Email
+C00495,2024-01-19,None,Organic
+C00496,2024-11-05,Percent Off,Email
+C00497,2024-07-05,None,Email
+C00498,2024-08-24,Percent Off,Paid Social
+C00499,2024-07-06,Percent Off,Google Ads
+C00500,2024-07-02,None,Organic
+C00501,2024-09-08,None,Paid Social
+C00502,2024-12-01,None,Organic
+C00503,2024-01-12,None,Google Ads
+C00504,2024-12-06,None,Organic
+C00505,2024-02-25,Percent Off,Google Ads
+C00506,2024-12-16,BOGOF,Organic
+C00507,2024-10-18,BOGOF,Paid Social
+C00508,2024-05-03,BOGOF,Email
+C00509,2024-10-29,None,Organic
+C00510,2024-10-27,None,Google Ads
+C00511,2024-06-15,Percent Off,Paid Social
+C00512,2024-08-21,Percent Off,Paid Social
+C00513,2024-06-04,None,Paid Social
+C00514,2024-11-25,Percent Off,Organic
+C00515,2024-10-26,BOGOF,Google Ads
+C00516,2024-08-09,Percent Off,Organic
+C00517,2024-02-01,BOGOF,Email
+C00518,2024-08-17,Percent Off,Google Ads
+C00519,2024-02-05,BOGOF,Paid Social
+C00520,2024-01-06,None,Organic
+C00521,2024-03-05,BOGOF,Google Ads
+C00522,2024-05-19,BOGOF,Organic
+C00523,2024-11-07,None,Organic
+C00524,2024-05-02,Free Shipping,Google Ads
+C00525,2024-08-17,Percent Off,Google Ads
+C00526,2024-01-14,Percent Off,Paid Social
+C00527,2024-12-03,Free Shipping,Google Ads
+C00528,2024-12-03,Free Shipping,Google Ads
+C00529,2024-09-01,Percent Off,Email
+C00530,2024-09-02,None,Google Ads
+C00531,2024-01-19,Free Shipping,Google Ads
+C00532,2024-11-10,None,Google Ads
+C00533,2024-05-12,BOGOF,Google Ads
+C00534,2024-06-03,None,Organic
+C00535,2024-11-28,None,Google Ads
+C00536,2024-02-20,Percent Off,Email
+C00537,2024-10-12,Percent Off,Email
+C00538,2024-11-03,None,Email
+C00539,2024-07-22,Free Shipping,Organic
+C00540,2024-10-21,None,Email
+C00541,2024-02-09,Free Shipping,Paid Social
+C00542,2024-10-09,None,Organic
+C00543,2024-11-18,Free Shipping,Organic
+C00544,2024-09-28,None,Organic
+C00545,2024-10-11,Percent Off,Email
+C00546,2024-12-09,Percent Off,Email
+C00547,2024-10-08,None,Google Ads
+C00548,2024-03-03,BOGOF,Paid Social
+C00549,2024-11-09,None,Organic
+C00550,2024-10-09,Percent Off,Paid Social
+C00551,2024-10-01,Free Shipping,Paid Social
+C00552,2024-06-11,Percent Off,Organic
+C00553,2024-10-25,BOGOF,Email
+C00554,2024-03-16,Percent Off,Organic
+C00555,2024-08-12,Percent Off,Organic
+C00556,2024-02-25,None,Email
+C00557,2024-12-24,Percent Off,Paid Social
+C00558,2024-05-02,None,Email
+C00559,2024-01-09,Percent Off,Organic
+C00560,2024-12-13,None,Paid Social
+C00561,2024-02-06,None,Email
+C00562,2024-12-13,Percent Off,Email
+C00563,2024-11-10,Free Shipping,Email
+C00564,2024-03-03,Percent Off,Paid Social
+C00565,2024-10-21,None,Email
+C00566,2024-01-14,None,Organic
+C00567,2024-10-31,Percent Off,Email
+C00568,2024-10-01,Percent Off,Organic
+C00569,2024-04-20,None,Organic
+C00570,2024-01-02,None,Paid Social
+C00571,2024-12-19,None,Email
+C00572,2024-03-31,Percent Off,Google Ads
+C00573,2024-04-11,Percent Off,Paid Social
+C00574,2024-12-07,None,Organic
+C00575,2024-12-16,Percent Off,Paid Social
+C00576,2024-11-10,Percent Off,Email
+C00577,2024-03-27,Percent Off,Paid Social
+C00578,2024-04-08,BOGOF,Google Ads
+C00579,2024-02-24,None,Email
+C00580,2024-05-17,None,Organic
+C00581,2024-09-28,Percent Off,Paid Social
+C00582,2024-06-13,Free Shipping,Paid Social
+C00583,2024-11-07,Percent Off,Organic
+C00584,2024-12-15,Free Shipping,Google Ads
+C00585,2024-02-14,BOGOF,Email
+C00586,2024-04-12,Percent Off,Email
+C00587,2024-03-25,None,Google Ads
+C00588,2024-06-15,None,Organic
+C00589,2024-07-26,None,Paid Social
+C00590,2024-04-08,None,Email
+C00591,2024-05-29,None,Email
+C00592,2024-05-03,Percent Off,Google Ads
+C00593,2024-06-19,None,Google Ads
+C00594,2024-03-20,Free Shipping,Google Ads
+C00595,2024-06-02,Free Shipping,Organic
+C00596,2024-11-19,Free Shipping,Google Ads
+C00597,2024-03-01,BOGOF,Email
+C00598,2024-03-10,Percent Off,Organic
+C00599,2024-07-21,Free Shipping,Organic
+C00600,2024-09-05,Percent Off,Email
+C00601,2024-08-12,None,Organic
+C00602,2024-06-05,None,Organic
+C00603,2024-02-23,Percent Off,Google Ads
+C00604,2024-12-24,BOGOF,Email
+C00605,2024-09-18,BOGOF,Google Ads
+C00606,2024-06-11,None,Organic
+C00607,2024-01-10,Percent Off,Organic
+C00608,2024-03-04,None,Google Ads
+C00609,2024-05-05,Percent Off,Paid Social
+C00610,2024-04-24,BOGOF,Email
+C00611,2024-07-28,Percent Off,Google Ads
+C00612,2024-01-04,None,Paid Social
+C00613,2024-12-06,BOGOF,Google Ads
+C00614,2024-04-14,None,Paid Social
+C00615,2024-02-25,Percent Off,Paid Social
+C00616,2024-03-01,Percent Off,Google Ads
+C00617,2024-08-08,Percent Off,Organic
+C00618,2024-07-15,Percent Off,Email
+C00619,2024-03-28,Percent Off,Email
+C00620,2024-12-20,Percent Off,Email
+C00621,2024-12-05,None,Organic
+C00622,2024-07-13,Percent Off,Paid Social
+C00623,2024-02-12,Percent Off,Email
+C00624,2024-10-02,BOGOF,Email
+C00625,2024-02-19,None,Paid Social
+C00626,2024-03-31,Percent Off,Paid Social
+C00627,2024-09-02,Percent Off,Paid Social
+C00628,2024-10-06,None,Email
+C00629,2024-03-29,BOGOF,Paid Social
+C00630,2024-04-15,BOGOF,Email
+C00631,2024-01-28,None,Email
+C00632,2024-10-24,None,Organic
+C00633,2024-10-19,Free Shipping,Google Ads
+C00634,2024-12-21,None,Email
+C00635,2024-10-09,BOGOF,Organic
+C00636,2024-01-12,Percent Off,Email
+C00637,2024-02-23,Percent Off,Google Ads
+C00638,2024-07-24,BOGOF,Paid Social
+C00639,2024-06-28,None,Google Ads
+C00640,2024-12-30,Free Shipping,Email
+C00641,2024-04-22,None,Google Ads
+C00642,2024-06-22,BOGOF,Email
+C00643,2024-10-22,Percent Off,Google Ads
+C00644,2024-04-17,Percent Off,Google Ads
+C00645,2024-03-13,BOGOF,Organic
+C00646,2024-03-31,Percent Off,Paid Social
+C00647,2024-05-18,Percent Off,Organic
+C00648,2024-08-30,Free Shipping,Paid Social
+C00649,2024-03-08,BOGOF,Email
+C00650,2024-06-15,None,Organic
+C00651,2024-03-26,None,Organic
+C00652,2024-05-29,BOGOF,Email
+C00653,2024-09-08,Percent Off,Email
+C00654,2024-07-28,None,Email
+C00655,2024-08-16,BOGOF,Email
+C00656,2024-05-17,None,Google Ads
+C00657,2024-09-08,BOGOF,Email
+C00658,2024-06-21,BOGOF,Google Ads
+C00659,2024-07-04,Percent Off,Organic
+C00660,2024-02-13,None,Paid Social
+C00661,2024-10-28,BOGOF,Google Ads
+C00662,2024-10-17,Free Shipping,Paid Social
+C00663,2024-07-02,Percent Off,Organic
+C00664,2024-03-16,None,Organic
+C00665,2024-01-24,Free Shipping,Email
+C00666,2024-08-29,BOGOF,Email
+C00667,2024-12-05,Percent Off,Organic
+C00668,2024-12-07,None,Google Ads
+C00669,2024-04-28,Free Shipping,Google Ads
+C00670,2024-05-21,Percent Off,Email
+C00671,2024-01-12,BOGOF,Paid Social
+C00672,2024-03-15,Percent Off,Google Ads
+C00673,2024-12-07,None,Email
+C00674,2024-10-16,Percent Off,Organic
+C00675,2024-10-29,Free Shipping,Email
+C00676,2024-06-04,BOGOF,Google Ads
+C00677,2024-10-16,BOGOF,Organic
+C00678,2024-09-09,Free Shipping,Paid Social
+C00679,2024-04-03,Percent Off,Paid Social
+C00680,2024-11-03,None,Organic
+C00681,2024-03-02,BOGOF,Email
+C00682,2024-03-13,None,Google Ads
+C00683,2024-05-16,Free Shipping,Organic
+C00684,2024-11-07,BOGOF,Organic
+C00685,2024-11-25,Free Shipping,Organic
+C00686,2024-01-08,Percent Off,Organic
+C00687,2024-06-19,BOGOF,Email
+C00688,2024-07-24,BOGOF,Google Ads
+C00689,2024-08-19,None,Google Ads
+C00690,2024-11-07,Percent Off,Organic
+C00691,2024-08-24,BOGOF,Google Ads
+C00692,2024-03-04,Percent Off,Organic
+C00693,2024-02-01,None,Organic
+C00694,2024-05-21,BOGOF,Google Ads
+C00695,2024-06-14,BOGOF,Email
+C00696,2024-02-02,BOGOF,Email
+C00697,2024-02-21,Free Shipping,Paid Social
+C00698,2024-10-22,Free Shipping,Paid Social
+C00699,2024-06-01,None,Paid Social
+C00700,2024-07-15,Free Shipping,Organic
+C00701,2024-02-26,Free Shipping,Email
+C00702,2024-05-29,Percent Off,Google Ads
+C00703,2024-08-02,BOGOF,Organic
+C00704,2024-11-13,None,Email
+C00705,2024-03-22,BOGOF,Email
+C00706,2024-08-17,None,Google Ads
+C00707,2024-03-17,Percent Off,Google Ads
+C00708,2024-09-13,None,Email
+C00709,2024-07-16,BOGOF,Email
+C00710,2024-01-08,None,Google Ads
+C00711,2024-04-03,BOGOF,Paid Social
+C00712,2024-12-20,None,Email
+C00713,2024-03-04,Percent Off,Paid Social
+C00714,2024-03-28,Free Shipping,Paid Social
+C00715,2024-11-04,None,Email
+C00716,2024-02-27,None,Email
+C00717,2024-10-23,Free Shipping,Email
+C00718,2024-08-12,None,Email
+C00719,2024-09-28,BOGOF,Google Ads
+C00720,2024-09-17,Free Shipping,Email
+C00721,2024-11-08,BOGOF,Organic
+C00722,2024-06-14,Percent Off,Organic
+C00723,2024-08-03,Free Shipping,Paid Social
+C00724,2024-05-25,Percent Off,Paid Social
+C00725,2024-10-08,Percent Off,Email
+C00726,2024-02-13,BOGOF,Google Ads
+C00727,2024-04-05,None,Google Ads
+C00728,2024-09-22,BOGOF,Paid Social
+C00729,2024-04-12,Percent Off,Email
+C00730,2024-06-04,None,Organic
+C00731,2024-08-31,None,Paid Social
+C00732,2024-10-23,None,Paid Social
+C00733,2024-03-28,BOGOF,Paid Social
+C00734,2024-08-11,BOGOF,Paid Social
+C00735,2024-01-09,Free Shipping,Email
+C00736,2024-04-20,Percent Off,Google Ads
+C00737,2024-12-04,Free Shipping,Email
+C00738,2024-06-15,None,Organic
+C00739,2024-08-09,BOGOF,Paid Social
+C00740,2024-10-09,Free Shipping,Organic
+C00741,2024-11-27,BOGOF,Paid Social
+C00742,2024-11-08,Percent Off,Email
+C00743,2024-02-23,Percent Off,Email
+C00744,2024-12-30,Free Shipping,Email
+C00745,2024-11-13,None,Email
+C00746,2024-06-03,Percent Off,Organic
+C00747,2024-12-22,None,Email
+C00748,2024-04-27,None,Paid Social
+C00749,2024-01-21,Free Shipping,Email
+C00750,2024-06-17,None,Email
+C00751,2024-01-23,Percent Off,Organic
+C00752,2024-09-25,None,Google Ads
+C00753,2024-11-05,Percent Off,Google Ads
+C00754,2024-12-24,BOGOF,Google Ads
+C00755,2024-08-17,Percent Off,Paid Social
+C00756,2024-10-15,Free Shipping,Google Ads
+C00757,2024-08-09,BOGOF,Email
+C00758,2024-08-12,Free Shipping,Paid Social
+C00759,2024-06-07,Percent Off,Google Ads
+C00760,2024-10-05,Percent Off,Organic
+C00761,2024-12-01,BOGOF,Google Ads
+C00762,2024-06-24,BOGOF,Google Ads
+C00763,2024-05-15,Percent Off,Email
+C00764,2024-06-20,BOGOF,Google Ads
+C00765,2024-11-15,BOGOF,Google Ads
+C00766,2024-10-26,None,Organic
+C00767,2024-10-31,Free Shipping,Email
+C00768,2024-11-16,None,Email
+C00769,2024-02-03,BOGOF,Paid Social
+C00770,2024-04-02,None,Organic
+C00771,2024-09-10,BOGOF,Organic
+C00772,2024-12-21,Free Shipping,Email
+C00773,2024-06-20,Free Shipping,Organic
+C00774,2024-10-29,Free Shipping,Paid Social
+C00775,2024-01-25,None,Organic
+C00776,2024-10-06,None,Organic
+C00777,2024-03-23,None,Google Ads
+C00778,2024-09-19,Percent Off,Email
+C00779,2024-01-13,Percent Off,Organic
+C00780,2024-06-16,None,Email
+C00781,2024-08-30,Percent Off,Email
+C00782,2024-09-26,Percent Off,Google Ads
+C00783,2024-03-28,None,Google Ads
+C00784,2024-05-08,None,Email
+C00785,2024-04-25,BOGOF,Paid Social
+C00786,2024-03-16,None,Organic
+C00787,2024-12-12,Percent Off,Google Ads
+C00788,2024-06-09,BOGOF,Google Ads
+C00789,2024-02-12,Percent Off,Paid Social
+C00790,2024-08-03,BOGOF,Paid Social
+C00791,2024-10-04,Free Shipping,Google Ads
+C00792,2024-01-09,BOGOF,Google Ads
+C00793,2024-11-09,None,Email
+C00794,2024-04-29,BOGOF,Email
+C00795,2024-11-16,Percent Off,Email
+C00796,2024-02-12,None,Google Ads
+C00797,2024-05-14,None,Paid Social
+C00798,2024-06-22,Free Shipping,Organic
+C00799,2024-06-13,Free Shipping,Google Ads
+C00800,2024-06-07,Percent Off,Google Ads
+C00801,2024-03-10,BOGOF,Organic
+C00802,2024-08-20,None,Email
+C00803,2024-03-05,None,Organic
+C00804,2024-02-16,BOGOF,Organic
+C00805,2024-01-30,BOGOF,Paid Social
+C00806,2024-03-27,None,Paid Social
+C00807,2024-11-22,Free Shipping,Email
+C00808,2024-02-12,None,Email
+C00809,2024-10-19,None,Organic
+C00810,2024-03-08,BOGOF,Organic
+C00811,2024-10-17,None,Paid Social
+C00812,2024-09-16,BOGOF,Google Ads
+C00813,2024-12-29,BOGOF,Organic
+C00814,2024-02-08,Free Shipping,Paid Social
+C00815,2024-12-30,None,Google Ads
+C00816,2024-07-14,BOGOF,Organic
+C00817,2024-03-07,Percent Off,Organic
+C00818,2024-07-09,Free Shipping,Organic
+C00819,2024-06-30,None,Organic
+C00820,2024-07-18,None,Paid Social
+C00821,2024-08-08,Free Shipping,Organic
+C00822,2024-08-24,BOGOF,Organic
+C00823,2024-05-26,None,Email
+C00824,2024-05-20,BOGOF,Paid Social
+C00825,2024-11-17,Free Shipping,Google Ads
+C00826,2024-09-13,Percent Off,Google Ads
+C00827,2024-08-09,None,Email
+C00828,2024-07-14,None,Google Ads
+C00829,2024-06-26,BOGOF,Paid Social
+C00830,2024-10-30,Percent Off,Organic
+C00831,2024-11-01,Percent Off,Google Ads
+C00832,2024-07-30,None,Google Ads
+C00833,2024-04-12,Free Shipping,Organic
+C00834,2024-02-27,None,Organic
+C00835,2024-10-27,Percent Off,Paid Social
+C00836,2024-11-16,Percent Off,Paid Social
+C00837,2024-10-12,BOGOF,Google Ads
+C00838,2024-05-20,Percent Off,Google Ads
+C00839,2024-09-05,Percent Off,Organic
+C00840,2024-01-26,BOGOF,Email
+C00841,2024-11-09,None,Google Ads
+C00842,2024-03-04,Percent Off,Google Ads
+C00843,2024-05-20,Percent Off,Google Ads
+C00844,2024-09-21,Percent Off,Paid Social
+C00845,2024-10-29,Percent Off,Paid Social
+C00846,2024-06-27,Free Shipping,Paid Social
+C00847,2024-02-01,None,Email
+C00848,2024-08-22,BOGOF,Google Ads
+C00849,2024-11-07,BOGOF,Google Ads
+C00850,2024-01-22,BOGOF,Organic
+C00851,2024-03-03,None,Email
+C00852,2024-12-04,None,Paid Social
+C00853,2024-08-27,None,Google Ads
+C00854,2024-10-17,Percent Off,Google Ads
+C00855,2024-01-25,BOGOF,Paid Social
+C00856,2024-08-16,BOGOF,Paid Social
+C00857,2024-07-09,None,Paid Social
+C00858,2024-09-07,Percent Off,Email
+C00859,2024-10-18,Percent Off,Email
+C00860,2024-06-28,BOGOF,Paid Social
+C00861,2024-10-30,Percent Off,Paid Social
+C00862,2024-03-19,Free Shipping,Paid Social
+C00863,2024-03-06,BOGOF,Paid Social
+C00864,2024-05-11,BOGOF,Paid Social
+C00865,2024-02-17,None,Email
+C00866,2024-01-19,Free Shipping,Email
+C00867,2024-03-27,BOGOF,Paid Social
+C00868,2024-05-09,Percent Off,Email
+C00869,2024-05-28,None,Google Ads
+C00870,2024-04-01,None,Google Ads
+C00871,2024-09-30,Free Shipping,Paid Social
+C00872,2024-08-28,Percent Off,Google Ads
+C00873,2024-12-10,None,Organic
+C00874,2024-02-22,Percent Off,Organic
+C00875,2024-04-28,Free Shipping,Google Ads
+C00876,2024-10-24,Percent Off,Paid Social
+C00877,2024-04-28,Percent Off,Organic
+C00878,2024-10-03,None,Google Ads
+C00879,2024-02-20,BOGOF,Organic
+C00880,2024-02-20,BOGOF,Google Ads
+C00881,2024-12-02,None,Email
+C00882,2024-09-18,Percent Off,Organic
+C00883,2024-09-01,None,Organic
+C00884,2024-06-04,Percent Off,Email
+C00885,2024-01-21,None,Organic
+C00886,2024-04-14,Percent Off,Google Ads
+C00887,2024-02-13,Percent Off,Paid Social
+C00888,2024-03-30,None,Organic
+C00889,2024-05-27,None,Google Ads
+C00890,2024-09-15,Percent Off,Organic
+C00891,2024-01-17,BOGOF,Paid Social
+C00892,2024-01-23,Percent Off,Email
+C00893,2024-01-14,None,Organic
+C00894,2024-10-09,None,Organic
+C00895,2024-05-11,Percent Off,Paid Social
+C00896,2024-02-24,Free Shipping,Paid Social
+C00897,2024-12-19,BOGOF,Google Ads
+C00898,2024-03-30,Percent Off,Google Ads
+C00899,2024-06-01,Percent Off,Google Ads
+C00900,2024-11-19,Percent Off,Paid Social
+C00901,2024-03-22,Free Shipping,Google Ads
+C00902,2024-06-25,Percent Off,Paid Social
+C00903,2024-02-06,BOGOF,Google Ads
+C00904,2024-05-29,Percent Off,Organic
+C00905,2024-12-19,Free Shipping,Paid Social
+C00906,2024-04-17,BOGOF,Organic
+C00907,2024-08-09,Percent Off,Paid Social
+C00908,2024-10-05,Percent Off,Organic
+C00909,2024-10-28,Percent Off,Google Ads
+C00910,2024-02-28,BOGOF,Email
+C00911,2024-11-15,None,Google Ads
+C00912,2024-04-05,Percent Off,Paid Social
+C00913,2024-07-08,None,Google Ads
+C00914,2024-07-15,Percent Off,Paid Social
+C00915,2024-02-21,None,Email
+C00916,2024-11-26,None,Email
+C00917,2024-11-06,None,Google Ads
+C00918,2024-05-13,Percent Off,Paid Social
+C00919,2024-05-10,Percent Off,Email
+C00920,2024-03-23,BOGOF,Organic
+C00921,2024-05-31,None,Organic
+C00922,2024-11-27,None,Google Ads
+C00923,2024-01-06,None,Email
+C00924,2024-10-13,None,Email
+C00925,2024-04-18,BOGOF,Google Ads
+C00926,2024-07-06,Percent Off,Organic
+C00927,2024-02-25,Percent Off,Organic
+C00928,2024-08-19,Free Shipping,Paid Social
+C00929,2024-11-05,None,Paid Social
+C00930,2024-03-08,Percent Off,Google Ads
+C00931,2024-07-24,BOGOF,Email
+C00932,2024-07-28,Percent Off,Google Ads
+C00933,2024-12-09,Percent Off,Email
+C00934,2024-10-05,None,Paid Social
+C00935,2024-01-14,None,Email
+C00936,2024-05-16,Percent Off,Organic
+C00937,2024-01-04,BOGOF,Email
+C00938,2024-07-30,BOGOF,Google Ads
+C00939,2024-10-26,BOGOF,Google Ads
+C00940,2024-06-26,Free Shipping,Paid Social
+C00941,2024-07-29,None,Email
+C00942,2024-12-15,None,Paid Social
+C00943,2024-05-20,None,Organic
+C00944,2024-06-17,None,Paid Social
+C00945,2024-07-20,None,Organic
+C00946,2024-11-26,None,Email
+C00947,2024-09-14,Free Shipping,Email
+C00948,2024-05-30,None,Organic
+C00949,2024-08-04,None,Paid Social
+C00950,2024-01-23,Percent Off,Paid Social
+C00951,2024-05-18,Free Shipping,Organic
+C00952,2024-10-02,None,Email
+C00953,2024-11-22,Percent Off,Email
+C00954,2024-09-27,Percent Off,Google Ads
+C00955,2024-10-09,Percent Off,Paid Social
+C00956,2024-06-26,None,Paid Social
+C00957,2024-12-18,None,Google Ads
+C00958,2024-01-21,None,Google Ads
+C00959,2024-08-21,BOGOF,Paid Social
+C00960,2024-03-13,BOGOF,Google Ads
+C00961,2024-12-08,Free Shipping,Email
+C00962,2024-01-01,BOGOF,Email
+C00963,2024-12-27,Percent Off,Email
+C00964,2024-10-04,Free Shipping,Organic
+C00965,2024-09-20,BOGOF,Organic
+C00966,2024-12-18,Free Shipping,Organic
+C00967,2024-11-18,BOGOF,Paid Social
+C00968,2024-09-16,None,Paid Social
+C00969,2024-06-14,Free Shipping,Google Ads
+C00970,2024-01-21,BOGOF,Organic
+C00971,2024-04-20,Free Shipping,Paid Social
+C00972,2024-11-15,Free Shipping,Email
+C00973,2024-04-15,None,Google Ads
+C00974,2024-05-31,BOGOF,Google Ads
+C00975,2024-04-28,BOGOF,Paid Social
+C00976,2024-06-22,None,Paid Social
+C00977,2024-06-28,Free Shipping,Paid Social
+C00978,2024-05-25,None,Email
+C00979,2024-03-05,Percent Off,Google Ads
+C00980,2024-09-23,BOGOF,Email
+C00981,2024-08-26,Percent Off,Email
+C00982,2024-08-17,None,Paid Social
+C00983,2024-09-04,Percent Off,Paid Social
+C00984,2024-02-03,Free Shipping,Organic
+C00985,2024-08-04,BOGOF,Paid Social
+C00986,2024-08-19,Free Shipping,Organic
+C00987,2024-11-19,Percent Off,Organic
+C00988,2024-11-25,Percent Off,Paid Social
+C00989,2024-02-11,Percent Off,Email
+C00990,2024-04-05,None,Email
+C00991,2024-06-04,Percent Off,Organic
+C00992,2024-12-08,Percent Off,Organic
+C00993,2024-02-04,Percent Off,Email
+C00994,2024-09-17,Percent Off,Google Ads
+C00995,2024-04-02,Percent Off,Google Ads
+C00996,2024-08-07,None,Organic
+C00997,2024-07-28,Percent Off,Paid Social
+C00998,2024-11-18,Percent Off,Paid Social
+C00999,2024-12-18,Percent Off,Organic
+C01000,2024-08-08,Percent Off,Google Ads
+C01001,2024-10-21,Percent Off,Paid Social
+C01002,2024-07-01,Free Shipping,Email
+C01003,2024-12-03,None,Google Ads
+C01004,2024-09-09,None,Google Ads
+C01005,2024-04-01,Percent Off,Google Ads
+C01006,2024-02-24,Percent Off,Organic
+C01007,2024-06-07,BOGOF,Paid Social
+C01008,2024-03-17,BOGOF,Google Ads
+C01009,2024-05-13,Free Shipping,Email
+C01010,2024-08-09,BOGOF,Organic
+C01011,2024-11-20,None,Organic
+C01012,2024-12-07,None,Organic
+C01013,2024-08-02,None,Organic
+C01014,2024-08-16,Percent Off,Google Ads
+C01015,2024-09-09,Free Shipping,Paid Social
+C01016,2024-11-30,None,Paid Social
+C01017,2024-10-26,Percent Off,Google Ads
+C01018,2024-11-25,Percent Off,Paid Social
+C01019,2024-04-24,None,Organic
+C01020,2024-08-14,Percent Off,Google Ads
+C01021,2024-01-13,None,Google Ads
+C01022,2024-04-22,BOGOF,Paid Social
+C01023,2024-09-17,None,Google Ads
+C01024,2024-02-27,BOGOF,Paid Social
+C01025,2024-03-16,None,Organic
+C01026,2024-05-20,Free Shipping,Organic
+C01027,2024-09-27,Percent Off,Organic
+C01028,2024-08-22,None,Email
+C01029,2024-08-25,Percent Off,Paid Social
+C01030,2024-12-09,Free Shipping,Google Ads
+C01031,2024-04-24,Percent Off,Organic
+C01032,2024-07-26,BOGOF,Google Ads
+C01033,2024-03-24,None,Paid Social
+C01034,2024-08-13,None,Email
+C01035,2024-12-28,Percent Off,Paid Social
+C01036,2024-04-26,Percent Off,Google Ads
+C01037,2024-09-02,None,Email
+C01038,2024-11-08,Percent Off,Google Ads
+C01039,2024-03-19,Percent Off,Email
+C01040,2024-11-27,Free Shipping,Google Ads
+C01041,2024-09-16,Percent Off,Paid Social
+C01042,2024-12-11,None,Google Ads
+C01043,2024-02-17,None,Organic
+C01044,2024-05-22,Free Shipping,Organic
+C01045,2024-03-14,BOGOF,Paid Social
+C01046,2024-11-29,BOGOF,Paid Social
+C01047,2024-11-17,Percent Off,Paid Social
+C01048,2024-10-15,None,Email
+C01049,2024-01-14,BOGOF,Paid Social
+C01050,2024-11-18,Percent Off,Email
+C01051,2024-11-28,None,Google Ads
+C01052,2024-10-15,None,Organic
+C01053,2024-06-28,Percent Off,Google Ads
+C01054,2024-04-27,Percent Off,Email
+C01055,2024-09-24,Percent Off,Email
+C01056,2024-01-31,None,Email
+C01057,2024-11-24,Free Shipping,Organic
+C01058,2024-02-13,Percent Off,Paid Social
+C01059,2024-04-04,Percent Off,Paid Social
+C01060,2024-02-19,Percent Off,Email
+C01061,2024-03-06,BOGOF,Organic
+C01062,2024-06-12,None,Paid Social
+C01063,2024-04-04,None,Paid Social
+C01064,2024-11-02,None,Google Ads
+C01065,2024-07-20,None,Paid Social
+C01066,2024-04-22,None,Email
+C01067,2024-10-20,Free Shipping,Organic
+C01068,2024-03-17,Percent Off,Email
+C01069,2024-11-12,None,Email
+C01070,2024-12-21,Percent Off,Email
+C01071,2024-07-28,Percent Off,Paid Social
+C01072,2024-12-06,BOGOF,Google Ads
+C01073,2024-03-14,None,Email
+C01074,2024-04-08,None,Google Ads
+C01075,2024-07-27,BOGOF,Paid Social
+C01076,2024-03-18,None,Paid Social
+C01077,2024-04-21,None,Paid Social
+C01078,2024-03-28,None,Google Ads
+C01079,2024-02-26,BOGOF,Email
+C01080,2024-11-13,Free Shipping,Organic
+C01081,2024-09-29,Percent Off,Google Ads
+C01082,2024-07-24,Percent Off,Paid Social
+C01083,2024-03-18,Free Shipping,Email
+C01084,2024-09-20,Percent Off,Organic
+C01085,2024-01-29,None,Google Ads
+C01086,2024-11-25,Percent Off,Paid Social
+C01087,2024-12-02,Percent Off,Google Ads
+C01088,2024-01-30,None,Google Ads
+C01089,2024-04-14,BOGOF,Google Ads
+C01090,2024-04-08,Percent Off,Paid Social
+C01091,2024-11-22,None,Google Ads
+C01092,2024-03-20,Free Shipping,Paid Social
+C01093,2024-09-01,Free Shipping,Google Ads
+C01094,2024-05-28,BOGOF,Email
+C01095,2024-11-25,BOGOF,Email
+C01096,2024-10-01,None,Paid Social
+C01097,2024-04-08,None,Organic
+C01098,2024-10-07,Free Shipping,Email
+C01099,2024-07-06,BOGOF,Paid Social
+C01100,2024-04-26,None,Email
+C01101,2024-01-12,None,Email
+C01102,2024-11-01,None,Email
+C01103,2024-01-30,Percent Off,Email
+C01104,2024-03-18,None,Email
+C01105,2024-06-04,Percent Off,Organic
+C01106,2024-07-04,BOGOF,Paid Social
+C01107,2024-01-12,Percent Off,Google Ads
+C01108,2024-11-04,Free Shipping,Paid Social
+C01109,2024-09-28,Free Shipping,Organic
+C01110,2024-11-14,Percent Off,Google Ads
+C01111,2024-02-21,Free Shipping,Paid Social
+C01112,2024-10-10,Percent Off,Email
+C01113,2024-09-24,None,Paid Social
+C01114,2024-05-09,Percent Off,Paid Social
+C01115,2024-03-25,Free Shipping,Paid Social
+C01116,2024-09-30,BOGOF,Organic
+C01117,2024-06-01,BOGOF,Google Ads
+C01118,2024-09-15,BOGOF,Organic
+C01119,2024-12-01,Percent Off,Paid Social
+C01120,2024-02-25,None,Organic
+C01121,2024-07-04,None,Google Ads
+C01122,2024-01-08,Percent Off,Paid Social
+C01123,2024-10-24,BOGOF,Email
+C01124,2024-08-12,Percent Off,Email
+C01125,2024-08-08,Free Shipping,Paid Social
+C01126,2024-04-23,None,Google Ads
+C01127,2024-01-04,BOGOF,Email
+C01128,2024-05-12,None,Organic
+C01129,2024-01-28,Percent Off,Email
+C01130,2024-08-11,BOGOF,Paid Social
+C01131,2024-04-12,None,Paid Social
+C01132,2024-12-16,Percent Off,Organic
+C01133,2024-08-24,Free Shipping,Google Ads
+C01134,2024-11-21,BOGOF,Google Ads
+C01135,2024-05-12,Percent Off,Email
+C01136,2024-02-07,Free Shipping,Google Ads
+C01137,2024-05-06,Percent Off,Google Ads
+C01138,2024-12-29,Free Shipping,Google Ads
+C01139,2024-04-14,None,Paid Social
+C01140,2024-05-09,Percent Off,Organic
+C01141,2024-11-29,None,Organic
+C01142,2024-06-29,Percent Off,Paid Social
+C01143,2024-03-11,Percent Off,Paid Social
+C01144,2024-11-10,Percent Off,Paid Social
+C01145,2024-07-16,None,Google Ads
+C01146,2024-07-16,None,Organic
+C01147,2024-06-06,None,Organic
+C01148,2024-06-28,None,Google Ads
+C01149,2024-01-12,None,Organic
+C01150,2024-06-23,None,Google Ads
+C01151,2024-06-18,None,Google Ads
+C01152,2024-01-31,Percent Off,Google Ads
+C01153,2024-10-19,BOGOF,Organic
+C01154,2024-04-20,None,Email
+C01155,2024-03-25,Percent Off,Google Ads
+C01156,2024-10-24,BOGOF,Paid Social
+C01157,2024-07-22,None,Google Ads
+C01158,2024-01-18,Percent Off,Google Ads
+C01159,2024-09-07,None,Organic
+C01160,2024-12-03,Percent Off,Paid Social
+C01161,2024-01-06,BOGOF,Email
+C01162,2024-11-12,Percent Off,Email
+C01163,2024-01-01,None,Paid Social
+C01164,2024-09-17,None,Email
+C01165,2024-11-08,None,Organic
+C01166,2024-02-02,Percent Off,Organic
+C01167,2024-02-07,None,Organic
+C01168,2024-04-21,Percent Off,Email
+C01169,2024-01-27,None,Paid Social
+C01170,2024-02-16,Percent Off,Email
+C01171,2024-12-31,BOGOF,Email
+C01172,2024-07-31,None,Email
+C01173,2024-07-15,None,Google Ads
+C01174,2024-10-03,Percent Off,Email
+C01175,2024-04-12,BOGOF,Organic
+C01176,2024-06-26,None,Paid Social
+C01177,2024-09-04,None,Google Ads
+C01178,2024-08-15,None,Paid Social
+C01179,2024-01-27,Percent Off,Email
+C01180,2024-07-05,Percent Off,Email
+C01181,2024-04-19,Percent Off,Email
+C01182,2024-11-02,Free Shipping,Email
+C01183,2024-02-29,Free Shipping,Email
+C01184,2024-04-10,BOGOF,Email
+C01185,2024-06-01,BOGOF,Google Ads
+C01186,2024-10-01,None,Email
+C01187,2024-03-15,BOGOF,Paid Social
+C01188,2024-11-24,None,Google Ads
+C01189,2024-05-07,Percent Off,Organic
+C01190,2024-11-19,Percent Off,Google Ads
+C01191,2024-01-15,Free Shipping,Google Ads
+C01192,2024-09-04,None,Email
+C01193,2024-12-26,None,Google Ads
+C01194,2024-06-02,Free Shipping,Email
+C01195,2024-03-09,BOGOF,Email
+C01196,2024-01-31,Percent Off,Google Ads
+C01197,2024-07-11,None,Email
+C01198,2024-05-19,BOGOF,Email
+C01199,2024-06-03,None,Google Ads
+C01200,2024-11-06,None,Email
+C01201,2024-08-17,Free Shipping,Email
+C01202,2024-09-06,Percent Off,Organic
+C01203,2024-09-08,None,Organic
+C01204,2024-11-10,Free Shipping,Organic
+C01205,2024-10-03,BOGOF,Google Ads
+C01206,2024-11-26,Percent Off,Paid Social
+C01207,2024-04-20,None,Paid Social
+C01208,2024-07-09,BOGOF,Google Ads
+C01209,2024-10-20,None,Paid Social
+C01210,2024-07-24,None,Google Ads
+C01211,2024-01-12,Free Shipping,Organic
+C01212,2024-06-26,BOGOF,Google Ads
+C01213,2024-10-23,Percent Off,Paid Social
+C01214,2024-09-06,BOGOF,Organic
+C01215,2024-01-24,None,Paid Social
+C01216,2024-11-04,None,Email
+C01217,2024-03-13,Percent Off,Paid Social
+C01218,2024-09-06,Percent Off,Organic
+C01219,2024-01-22,Free Shipping,Email
+C01220,2024-12-26,None,Organic
+C01221,2024-11-03,Free Shipping,Paid Social
+C01222,2024-07-17,Percent Off,Google Ads
+C01223,2024-08-15,BOGOF,Google Ads
+C01224,2024-03-19,Percent Off,Paid Social
+C01225,2024-09-04,None,Organic
+C01226,2024-12-11,None,Paid Social
+C01227,2024-02-05,None,Email
+C01228,2024-12-24,Percent Off,Paid Social
+C01229,2024-01-24,Percent Off,Email
+C01230,2024-06-08,None,Google Ads
+C01231,2024-07-07,None,Email
+C01232,2024-09-04,BOGOF,Organic
+C01233,2024-12-24,Free Shipping,Google Ads
+C01234,2024-07-05,Free Shipping,Paid Social
+C01235,2024-06-23,BOGOF,Organic
+C01236,2024-11-11,Free Shipping,Google Ads
+C01237,2024-07-12,Free Shipping,Paid Social
+C01238,2024-04-11,Percent Off,Paid Social
+C01239,2024-05-23,Percent Off,Google Ads
+C01240,2024-06-09,BOGOF,Paid Social
+C01241,2024-03-25,BOGOF,Google Ads
+C01242,2024-05-26,None,Google Ads
+C01243,2024-07-02,Percent Off,Organic
+C01244,2024-03-04,None,Google Ads
+C01245,2024-04-13,None,Paid Social
+C01246,2024-07-29,None,Email
+C01247,2024-09-01,BOGOF,Organic
+C01248,2024-08-24,Free Shipping,Organic
+C01249,2024-10-17,Percent Off,Google Ads
+C01250,2024-06-25,None,Paid Social
+C01251,2024-05-27,Percent Off,Email
+C01252,2024-12-02,BOGOF,Organic
+C01253,2024-02-20,None,Organic
+C01254,2024-01-15,None,Paid Social
+C01255,2024-07-16,Free Shipping,Organic
+C01256,2024-12-07,Free Shipping,Email
+C01257,2024-12-21,None,Paid Social
+C01258,2024-08-13,Percent Off,Google Ads
+C01259,2024-01-13,None,Email
+C01260,2024-10-08,Free Shipping,Google Ads
+C01261,2024-07-18,None,Google Ads
+C01262,2024-06-10,Free Shipping,Paid Social
+C01263,2024-01-25,None,Paid Social
+C01264,2024-04-19,BOGOF,Paid Social
+C01265,2024-06-07,Percent Off,Organic
+C01266,2024-05-29,BOGOF,Google Ads
+C01267,2024-07-22,BOGOF,Google Ads
+C01268,2024-01-08,Percent Off,Paid Social
+C01269,2024-02-27,BOGOF,Paid Social
+C01270,2024-09-09,BOGOF,Paid Social
+C01271,2024-08-02,None,Paid Social
+C01272,2024-02-12,BOGOF,Google Ads
+C01273,2024-08-24,None,Organic
+C01274,2024-03-03,BOGOF,Paid Social
+C01275,2024-08-01,Free Shipping,Email
+C01276,2024-10-14,None,Organic
+C01277,2024-12-19,Percent Off,Google Ads
+C01278,2024-01-14,BOGOF,Paid Social
+C01279,2024-10-22,Percent Off,Email
+C01280,2024-11-22,BOGOF,Paid Social
+C01281,2024-07-08,BOGOF,Email
+C01282,2024-05-13,None,Paid Social
+C01283,2024-01-23,Percent Off,Email
+C01284,2024-05-15,Percent Off,Email
+C01285,2024-08-02,Percent Off,Google Ads
+C01286,2024-01-30,Percent Off,Organic
+C01287,2024-02-20,None,Google Ads
+C01288,2024-11-09,None,Google Ads
+C01289,2024-05-15,Percent Off,Paid Social
+C01290,2024-10-30,Percent Off,Paid Social
+C01291,2024-01-24,BOGOF,Organic
+C01292,2024-08-30,None,Organic
+C01293,2024-02-27,Percent Off,Paid Social
+C01294,2024-03-23,None,Google Ads
+C01295,2024-12-28,None,Paid Social
+C01296,2024-05-15,Free Shipping,Email
+C01297,2024-11-21,BOGOF,Google Ads
+C01298,2024-10-26,Percent Off,Email
+C01299,2024-09-22,None,Organic
+C01300,2024-09-09,BOGOF,Email
+C01301,2024-10-09,None,Google Ads
+C01302,2024-03-15,None,Google Ads
+C01303,2024-11-26,BOGOF,Organic
+C01304,2024-08-30,BOGOF,Paid Social
+C01305,2024-06-11,Percent Off,Email
+C01306,2024-06-30,Percent Off,Google Ads
+C01307,2024-04-20,BOGOF,Organic
+C01308,2024-08-25,BOGOF,Organic
+C01309,2024-11-25,BOGOF,Organic
+C01310,2024-07-13,BOGOF,Paid Social
+C01311,2024-03-30,Percent Off,Email
+C01312,2024-12-03,Percent Off,Paid Social
+C01313,2024-05-29,None,Email
+C01314,2024-06-20,BOGOF,Paid Social
+C01315,2024-02-24,BOGOF,Email
+C01316,2024-08-08,BOGOF,Organic
+C01317,2024-08-18,None,Email
+C01318,2024-08-26,None,Organic
+C01319,2024-01-12,Percent Off,Organic
+C01320,2024-01-23,Percent Off,Google Ads
+C01321,2024-11-26,None,Email
+C01322,2024-11-07,Percent Off,Google Ads
+C01323,2024-11-20,Percent Off,Paid Social
+C01324,2024-08-04,Percent Off,Paid Social
+C01325,2024-08-21,BOGOF,Paid Social
+C01326,2024-09-28,Free Shipping,Google Ads
+C01327,2024-10-26,BOGOF,Paid Social
+C01328,2024-09-19,None,Paid Social
+C01329,2024-11-29,Percent Off,Google Ads
+C01330,2024-01-23,Percent Off,Google Ads
+C01331,2024-11-26,BOGOF,Google Ads
+C01332,2024-11-21,None,Google Ads
+C01333,2024-09-30,None,Paid Social
+C01334,2024-06-17,None,Organic
+C01335,2024-11-21,None,Google Ads
+C01336,2024-07-22,BOGOF,Paid Social
+C01337,2024-02-06,None,Paid Social
+C01338,2024-06-09,Percent Off,Email
+C01339,2024-06-15,BOGOF,Google Ads
+C01340,2024-08-16,None,Google Ads
+C01341,2024-11-12,None,Google Ads
+C01342,2024-05-26,Percent Off,Organic
+C01343,2024-01-02,None,Google Ads
+C01344,2024-03-29,None,Organic
+C01345,2024-06-07,None,Organic
+C01346,2024-12-06,None,Google Ads
+C01347,2024-05-26,BOGOF,Google Ads
+C01348,2024-03-03,None,Google Ads
+C01349,2024-03-22,Free Shipping,Paid Social
+C01350,2024-04-08,BOGOF,Google Ads
+C01351,2024-09-14,None,Email
+C01352,2024-10-17,Percent Off,Email
+C01353,2024-03-30,None,Organic
+C01354,2024-12-03,BOGOF,Email
+C01355,2024-04-01,Percent Off,Organic
+C01356,2024-11-04,None,Email
+C01357,2024-12-04,Percent Off,Email
+C01358,2024-05-04,None,Email
+C01359,2024-07-29,None,Google Ads
+C01360,2024-04-08,Percent Off,Email
+C01361,2024-11-18,Free Shipping,Organic
+C01362,2024-04-02,Percent Off,Google Ads
+C01363,2024-10-30,None,Paid Social
+C01364,2024-04-26,Percent Off,Organic
+C01365,2024-04-06,None,Paid Social
+C01366,2024-03-04,Percent Off,Paid Social
+C01367,2024-08-29,None,Paid Social
+C01368,2024-11-28,BOGOF,Paid Social
+C01369,2024-12-08,None,Paid Social
+C01370,2024-06-30,BOGOF,Email
+C01371,2024-07-19,BOGOF,Paid Social
+C01372,2024-06-09,Free Shipping,Organic
+C01373,2024-12-28,BOGOF,Paid Social
+C01374,2024-11-19,None,Organic
+C01375,2024-02-10,Percent Off,Google Ads
+C01376,2024-01-21,Percent Off,Organic
+C01377,2024-02-17,None,Organic
+C01378,2024-09-20,Percent Off,Google Ads
+C01379,2024-11-11,None,Google Ads
+C01380,2024-10-04,Percent Off,Google Ads
+C01381,2024-12-02,BOGOF,Paid Social
+C01382,2024-03-28,None,Google Ads
+C01383,2024-05-28,Free Shipping,Paid Social
+C01384,2024-12-16,None,Paid Social
+C01385,2024-08-30,None,Email
+C01386,2024-10-22,Percent Off,Google Ads
+C01387,2024-04-09,BOGOF,Organic
+C01388,2024-08-05,Percent Off,Google Ads
+C01389,2024-11-26,Percent Off,Google Ads
+C01390,2024-12-27,None,Paid Social
+C01391,2024-01-16,Percent Off,Paid Social
+C01392,2024-05-05,Percent Off,Organic
+C01393,2024-05-02,BOGOF,Paid Social
+C01394,2024-03-20,None,Email
+C01395,2024-08-14,Free Shipping,Google Ads
+C01396,2024-01-31,None,Google Ads
+C01397,2024-11-05,None,Google Ads
+C01398,2024-12-15,BOGOF,Email
+C01399,2024-07-14,Percent Off,Organic
+C01400,2024-09-10,Percent Off,Organic
+C01401,2024-10-31,Free Shipping,Google Ads
+C01402,2024-04-08,Percent Off,Google Ads
+C01403,2024-10-02,BOGOF,Google Ads
+C01404,2024-02-19,None,Google Ads
+C01405,2024-10-28,Free Shipping,Organic
+C01406,2024-06-18,Free Shipping,Organic
+C01407,2024-08-21,Free Shipping,Email
+C01408,2024-09-16,Percent Off,Organic
+C01409,2024-02-07,None,Email
+C01410,2024-07-11,BOGOF,Google Ads
+C01411,2024-01-28,None,Google Ads
+C01412,2024-12-05,BOGOF,Paid Social
+C01413,2024-11-20,None,Google Ads
+C01414,2024-07-15,None,Organic
+C01415,2024-06-03,Percent Off,Google Ads
+C01416,2024-12-18,Free Shipping,Email
+C01417,2024-02-19,Free Shipping,Email
+C01418,2024-11-17,BOGOF,Paid Social
+C01419,2024-05-07,None,Paid Social
+C01420,2024-10-15,Free Shipping,Organic
+C01421,2024-05-17,None,Organic
+C01422,2024-04-07,BOGOF,Organic
+C01423,2024-05-09,Percent Off,Email
+C01424,2024-12-28,BOGOF,Paid Social
+C01425,2024-10-11,None,Email
+C01426,2024-04-07,Free Shipping,Google Ads
+C01427,2024-04-10,Free Shipping,Google Ads
+C01428,2024-06-16,Free Shipping,Paid Social
+C01429,2024-01-23,BOGOF,Google Ads
+C01430,2024-11-09,Free Shipping,Paid Social
+C01431,2024-01-06,BOGOF,Google Ads
+C01432,2024-05-09,None,Google Ads
+C01433,2024-12-21,Percent Off,Organic
+C01434,2024-08-16,Free Shipping,Paid Social
+C01435,2024-02-14,None,Email
+C01436,2024-07-09,None,Paid Social
+C01437,2024-03-05,None,Email
+C01438,2024-03-19,Percent Off,Paid Social
+C01439,2024-10-07,None,Organic
+C01440,2024-08-22,None,Organic
+C01441,2024-08-13,BOGOF,Google Ads
+C01442,2024-10-31,Percent Off,Email
+C01443,2024-08-22,BOGOF,Organic
+C01444,2024-06-07,BOGOF,Organic
+C01445,2024-03-10,Percent Off,Google Ads
+C01446,2024-11-02,BOGOF,Paid Social
+C01447,2024-11-28,None,Google Ads
+C01448,2024-03-23,None,Organic
+C01449,2024-02-29,None,Email
+C01450,2024-12-27,BOGOF,Email
+C01451,2024-05-07,BOGOF,Organic
+C01452,2024-10-20,None,Organic
+C01453,2024-01-09,BOGOF,Email
+C01454,2024-10-27,None,Organic
+C01455,2024-07-05,None,Organic
+C01456,2024-12-31,BOGOF,Email
+C01457,2024-02-24,BOGOF,Paid Social
+C01458,2024-09-23,Free Shipping,Email
+C01459,2024-02-23,BOGOF,Organic
+C01460,2024-06-15,None,Organic
+C01461,2024-07-10,None,Email
+C01462,2024-07-18,Free Shipping,Organic
+C01463,2024-08-19,Percent Off,Organic
+C01464,2024-11-05,Percent Off,Paid Social
+C01465,2024-12-01,Percent Off,Google Ads
+C01466,2024-05-14,Percent Off,Paid Social
+C01467,2024-09-23,Percent Off,Paid Social
+C01468,2024-12-15,BOGOF,Organic
+C01469,2024-11-05,Percent Off,Email
+C01470,2024-04-17,Percent Off,Paid Social
+C01471,2024-09-12,Free Shipping,Organic
+C01472,2024-02-26,None,Email
+C01473,2024-07-23,None,Organic
+C01474,2024-05-15,BOGOF,Organic
+C01475,2024-04-08,BOGOF,Google Ads
+C01476,2024-12-20,Free Shipping,Paid Social
+C01477,2024-08-16,BOGOF,Organic
+C01478,2024-05-23,Percent Off,Email
+C01479,2024-11-05,None,Organic
+C01480,2024-02-23,Percent Off,Google Ads
+C01481,2024-06-30,BOGOF,Email
+C01482,2024-05-02,None,Email
+C01483,2024-06-29,None,Google Ads
+C01484,2024-08-03,Percent Off,Google Ads
+C01485,2024-10-01,None,Organic
+C01486,2024-06-03,None,Email
+C01487,2024-08-10,None,Paid Social
+C01488,2024-03-18,Percent Off,Organic
+C01489,2024-04-19,Free Shipping,Google Ads
+C01490,2024-02-09,Free Shipping,Email
+C01491,2024-05-30,Percent Off,Email
+C01492,2024-03-06,Free Shipping,Organic
+C01493,2024-09-10,None,Email
+C01494,2024-05-27,BOGOF,Google Ads
+C01495,2024-12-02,None,Organic
+C01496,2024-03-17,None,Paid Social
+C01497,2024-05-02,Free Shipping,Organic
+C01498,2024-03-27,BOGOF,Google Ads
+C01499,2024-01-11,BOGOF,Organic
+C01500,2024-12-14,Percent Off,Email
+C01501,2024-12-27,None,Email
+C01502,2024-02-02,None,Organic
+C01503,2024-07-20,BOGOF,Google Ads
+C01504,2024-10-13,Free Shipping,Google Ads
+C01505,2024-06-12,Percent Off,Organic
+C01506,2024-05-26,None,Paid Social
+C01507,2024-01-22,Percent Off,Organic
+C01508,2024-01-24,None,Organic
+C01509,2024-08-22,Free Shipping,Email
+C01510,2024-09-09,None,Email
+C01511,2024-10-08,Percent Off,Google Ads
+C01512,2024-12-15,BOGOF,Organic
+C01513,2024-03-25,None,Organic
+C01514,2024-11-19,None,Google Ads
+C01515,2024-12-12,Percent Off,Email
+C01516,2024-03-31,Free Shipping,Google Ads
+C01517,2024-03-11,Free Shipping,Paid Social
+C01518,2024-08-17,Percent Off,Email
+C01519,2024-12-10,Percent Off,Organic
+C01520,2024-05-09,Percent Off,Paid Social
+C01521,2024-10-16,None,Email
+C01522,2024-10-27,None,Paid Social
+C01523,2024-12-09,None,Google Ads
+C01524,2024-05-13,None,Paid Social
+C01525,2024-11-13,Free Shipping,Email
+C01526,2024-06-10,Percent Off,Organic
+C01527,2024-03-08,None,Organic
+C01528,2024-06-25,Percent Off,Google Ads
+C01529,2024-04-25,None,Email
+C01530,2024-07-18,Percent Off,Email
+C01531,2024-04-17,None,Paid Social
+C01532,2024-08-12,BOGOF,Google Ads
+C01533,2024-06-06,None,Paid Social
+C01534,2024-02-22,Percent Off,Email
+C01535,2024-09-15,Percent Off,Paid Social
+C01536,2024-08-27,Percent Off,Paid Social
+C01537,2024-05-16,Free Shipping,Email
+C01538,2024-07-15,BOGOF,Email
+C01539,2024-05-04,Percent Off,Google Ads
+C01540,2024-07-16,Percent Off,Organic
+C01541,2024-03-02,Percent Off,Email
+C01542,2024-10-01,None,Google Ads
+C01543,2024-10-16,BOGOF,Organic
+C01544,2024-06-16,Percent Off,Organic
+C01545,2024-09-12,None,Email
+C01546,2024-07-18,Percent Off,Organic
+C01547,2024-11-03,Percent Off,Google Ads
+C01548,2024-10-16,BOGOF,Email
+C01549,2024-11-26,Percent Off,Google Ads
+C01550,2024-12-20,None,Paid Social
+C01551,2024-02-19,Free Shipping,Paid Social
+C01552,2024-08-27,BOGOF,Email
+C01553,2024-11-26,Percent Off,Organic
+C01554,2024-08-04,BOGOF,Organic
+C01555,2024-04-07,None,Organic
+C01556,2024-12-06,Free Shipping,Paid Social
+C01557,2024-05-27,None,Paid Social
+C01558,2024-05-08,BOGOF,Google Ads
+C01559,2024-08-12,Percent Off,Organic
+C01560,2024-07-01,Percent Off,Google Ads
+C01561,2024-05-15,BOGOF,Email
+C01562,2024-05-11,Percent Off,Organic
+C01563,2024-05-15,Percent Off,Organic
+C01564,2024-10-08,Percent Off,Email
+C01565,2024-01-02,BOGOF,Paid Social
+C01566,2024-11-02,Free Shipping,Email
+C01567,2024-10-15,None,Paid Social
+C01568,2024-09-18,None,Email
+C01569,2024-05-20,Percent Off,Google Ads
+C01570,2024-10-16,None,Paid Social
+C01571,2024-05-07,None,Paid Social
+C01572,2024-06-08,Percent Off,Organic
+C01573,2024-09-05,Percent Off,Google Ads
+C01574,2024-01-26,BOGOF,Email
+C01575,2024-03-07,Percent Off,Organic
+C01576,2024-01-07,Percent Off,Organic
+C01577,2024-06-19,Percent Off,Paid Social
+C01578,2024-04-23,Free Shipping,Paid Social
+C01579,2024-10-06,Percent Off,Organic
+C01580,2024-02-02,Percent Off,Google Ads
+C01581,2024-06-10,BOGOF,Google Ads
+C01582,2024-01-26,Percent Off,Organic
+C01583,2024-11-16,Percent Off,Organic
+C01584,2024-08-13,None,Email
+C01585,2024-05-24,None,Paid Social
+C01586,2024-06-18,Percent Off,Google Ads
+C01587,2024-03-14,BOGOF,Organic
+C01588,2024-03-12,Percent Off,Google Ads
+C01589,2024-09-02,Free Shipping,Organic
+C01590,2024-03-13,None,Organic
+C01591,2024-01-14,Percent Off,Paid Social
+C01592,2024-03-30,Percent Off,Paid Social
+C01593,2024-03-16,BOGOF,Email
+C01594,2024-10-01,Percent Off,Paid Social
+C01595,2024-08-20,None,Email
+C01596,2024-06-01,Percent Off,Email
+C01597,2024-08-13,Free Shipping,Email
+C01598,2024-07-05,Free Shipping,Organic
+C01599,2024-09-24,None,Google Ads
+C01600,2024-03-15,Percent Off,Organic
+C01601,2024-04-23,None,Organic
+C01602,2024-01-13,BOGOF,Organic
+C01603,2024-11-27,None,Paid Social
+C01604,2024-02-24,BOGOF,Google Ads
+C01605,2024-01-20,Percent Off,Google Ads
+C01606,2024-10-27,Percent Off,Paid Social
+C01607,2024-01-24,Percent Off,Google Ads
+C01608,2024-07-31,None,Paid Social
+C01609,2024-04-28,Percent Off,Google Ads
+C01610,2024-10-09,Free Shipping,Organic
+C01611,2024-05-28,Free Shipping,Google Ads
+C01612,2024-10-23,None,Paid Social
+C01613,2024-03-07,None,Google Ads
+C01614,2024-11-12,Percent Off,Organic
+C01615,2024-11-24,None,Organic
+C01616,2024-12-21,None,Email
+C01617,2024-10-17,None,Email
+C01618,2024-11-04,BOGOF,Email
+C01619,2024-03-20,Free Shipping,Email
+C01620,2024-11-08,Percent Off,Paid Social
+C01621,2024-12-08,Percent Off,Google Ads
+C01622,2024-07-21,Percent Off,Email
+C01623,2024-05-13,None,Organic
+C01624,2024-03-16,None,Email
+C01625,2024-05-13,Percent Off,Google Ads
+C01626,2024-02-05,BOGOF,Email
+C01627,2024-08-08,None,Email
+C01628,2024-12-30,Percent Off,Email
+C01629,2024-11-22,BOGOF,Organic
+C01630,2024-09-26,BOGOF,Organic
+C01631,2024-07-24,None,Google Ads
+C01632,2024-06-13,BOGOF,Paid Social
+C01633,2024-09-02,None,Paid Social
+C01634,2024-07-31,BOGOF,Email
+C01635,2024-08-10,Free Shipping,Organic
+C01636,2024-07-06,Percent Off,Email
+C01637,2024-01-12,Percent Off,Google Ads
+C01638,2024-11-24,Free Shipping,Email
+C01639,2024-06-06,Percent Off,Organic
+C01640,2024-11-27,None,Email
+C01641,2024-07-10,Free Shipping,Google Ads
+C01642,2024-10-10,None,Paid Social
+C01643,2024-08-02,Percent Off,Paid Social
+C01644,2024-09-10,Percent Off,Organic
+C01645,2024-12-24,Percent Off,Google Ads
+C01646,2024-05-28,Free Shipping,Email
+C01647,2024-03-27,Percent Off,Organic
+C01648,2024-05-30,None,Organic
+C01649,2024-12-30,Free Shipping,Organic
+C01650,2024-07-14,Percent Off,Organic
+C01651,2024-12-28,Free Shipping,Email
+C01652,2024-12-30,BOGOF,Organic
+C01653,2024-07-06,None,Email
+C01654,2024-05-28,BOGOF,Email
+C01655,2024-08-27,Free Shipping,Google Ads
+C01656,2024-05-08,Free Shipping,Organic
+C01657,2024-09-14,Percent Off,Google Ads
+C01658,2024-04-28,None,Google Ads
+C01659,2024-06-13,Free Shipping,Organic
+C01660,2024-07-17,None,Google Ads
+C01661,2024-01-12,None,Email
+C01662,2024-07-02,Percent Off,Organic
+C01663,2024-05-30,Percent Off,Organic
+C01664,2024-05-29,Free Shipping,Organic
+C01665,2024-07-29,Percent Off,Organic
+C01666,2024-02-17,Free Shipping,Organic
+C01667,2024-07-03,Percent Off,Organic
+C01668,2024-07-06,Percent Off,Organic
+C01669,2024-03-25,Percent Off,Email
+C01670,2024-01-09,Percent Off,Organic
+C01671,2024-01-15,None,Google Ads
+C01672,2024-04-28,None,Email
+C01673,2024-04-17,BOGOF,Google Ads
+C01674,2024-06-04,None,Organic
+C01675,2024-11-17,Free Shipping,Organic
+C01676,2024-05-16,None,Organic
+C01677,2024-12-12,Percent Off,Organic
+C01678,2024-11-02,BOGOF,Paid Social
+C01679,2024-06-24,Percent Off,Email
+C01680,2024-01-21,None,Organic
+C01681,2024-07-25,BOGOF,Paid Social
+C01682,2024-12-05,Percent Off,Email
+C01683,2024-08-11,Percent Off,Paid Social
+C01684,2024-12-10,None,Organic
+C01685,2024-12-30,None,Email
+C01686,2024-12-29,BOGOF,Organic
+C01687,2024-09-07,Free Shipping,Google Ads
+C01688,2024-06-03,Free Shipping,Google Ads
+C01689,2024-11-11,None,Organic
+C01690,2024-08-27,None,Google Ads
+C01691,2024-02-19,BOGOF,Email
+C01692,2024-08-18,None,Email
+C01693,2024-01-12,BOGOF,Email
+C01694,2024-10-04,BOGOF,Email
+C01695,2024-03-04,BOGOF,Google Ads
+C01696,2024-10-13,BOGOF,Organic
+C01697,2024-10-16,None,Email
+C01698,2024-10-02,BOGOF,Paid Social
+C01699,2024-07-13,Percent Off,Paid Social
+C01700,2024-09-27,None,Organic
+C01701,2024-08-05,None,Organic
+C01702,2024-05-30,Percent Off,Email
+C01703,2024-01-20,Free Shipping,Paid Social
+C01704,2024-12-26,None,Organic
+C01705,2024-08-17,Percent Off,Google Ads
+C01706,2024-11-10,BOGOF,Email
+C01707,2024-07-06,Percent Off,Paid Social
+C01708,2024-09-22,None,Paid Social
+C01709,2024-11-10,None,Paid Social
+C01710,2024-09-16,BOGOF,Google Ads
+C01711,2024-02-12,None,Google Ads
+C01712,2024-02-02,Free Shipping,Organic
+C01713,2024-11-11,BOGOF,Paid Social
+C01714,2024-12-24,None,Organic
+C01715,2024-05-28,Free Shipping,Email
+C01716,2024-03-13,Percent Off,Organic
+C01717,2024-03-30,None,Email
+C01718,2024-07-04,None,Email
+C01719,2024-12-01,Percent Off,Email
+C01720,2024-06-09,Percent Off,Email
+C01721,2024-09-11,None,Email
+C01722,2024-01-09,BOGOF,Google Ads
+C01723,2024-10-14,Percent Off,Paid Social
+C01724,2024-05-27,BOGOF,Paid Social
+C01725,2024-11-01,None,Google Ads
+C01726,2024-03-09,Percent Off,Paid Social
+C01727,2024-06-02,BOGOF,Google Ads
+C01728,2024-02-09,None,Organic
+C01729,2024-04-17,Percent Off,Organic
+C01730,2024-05-23,None,Organic
+C01731,2024-11-30,BOGOF,Paid Social
+C01732,2024-03-18,Percent Off,Organic
+C01733,2024-07-02,None,Paid Social
+C01734,2024-01-13,BOGOF,Organic
+C01735,2024-05-23,None,Google Ads
+C01736,2024-01-25,Percent Off,Email
+C01737,2024-12-18,None,Paid Social
+C01738,2024-09-04,BOGOF,Paid Social
+C01739,2024-04-16,None,Paid Social
+C01740,2024-11-03,Free Shipping,Google Ads
+C01741,2024-10-23,BOGOF,Email
+C01742,2024-12-27,None,Google Ads
+C01743,2024-03-15,BOGOF,Email
+C01744,2024-11-06,Free Shipping,Email
+C01745,2024-10-18,Percent Off,Organic
+C01746,2024-08-01,Percent Off,Paid Social
+C01747,2024-07-20,None,Google Ads
+C01748,2024-01-17,Free Shipping,Organic
+C01749,2024-03-16,Percent Off,Email
+C01750,2024-03-07,Percent Off,Google Ads
+C01751,2024-06-06,Free Shipping,Email
+C01752,2024-02-06,None,Organic
+C01753,2024-12-08,Percent Off,Email
+C01754,2024-04-16,Free Shipping,Email
+C01755,2024-07-11,BOGOF,Paid Social
+C01756,2024-12-03,None,Email
+C01757,2024-09-14,BOGOF,Email
+C01758,2024-11-18,None,Google Ads
+C01759,2024-12-29,BOGOF,Email
+C01760,2024-03-09,BOGOF,Email
+C01761,2024-09-11,None,Email
+C01762,2024-01-29,Percent Off,Organic
+C01763,2024-11-10,Percent Off,Paid Social
+C01764,2024-06-07,None,Paid Social
+C01765,2024-01-12,Free Shipping,Google Ads
+C01766,2024-12-27,Free Shipping,Organic
+C01767,2024-02-17,Percent Off,Paid Social
+C01768,2024-09-16,Percent Off,Organic
+C01769,2024-05-19,Percent Off,Google Ads
+C01770,2024-03-14,Free Shipping,Email
+C01771,2024-09-07,Percent Off,Email
+C01772,2024-01-20,Percent Off,Paid Social
+C01773,2024-10-07,None,Email
+C01774,2024-05-15,Free Shipping,Paid Social
+C01775,2024-12-27,Free Shipping,Email
+C01776,2024-03-01,BOGOF,Organic
+C01777,2024-05-21,Percent Off,Paid Social
+C01778,2024-03-18,Percent Off,Google Ads
+C01779,2024-10-11,BOGOF,Paid Social
+C01780,2024-03-09,BOGOF,Paid Social
+C01781,2024-03-04,Percent Off,Email
+C01782,2024-08-02,BOGOF,Paid Social
+C01783,2024-06-08,None,Google Ads
+C01784,2024-08-11,None,Organic
+C01785,2024-11-04,Percent Off,Email
+C01786,2024-03-18,BOGOF,Paid Social
+C01787,2024-05-04,Percent Off,Google Ads
+C01788,2024-12-03,None,Paid Social
+C01789,2024-05-04,None,Email
+C01790,2024-05-25,Free Shipping,Paid Social
+C01791,2024-08-05,None,Google Ads
+C01792,2024-02-26,Free Shipping,Organic
+C01793,2024-11-17,Percent Off,Organic
+C01794,2024-12-30,None,Google Ads
+C01795,2024-04-03,Percent Off,Google Ads
+C01796,2024-12-29,BOGOF,Email
+C01797,2024-12-10,Free Shipping,Google Ads
+C01798,2024-02-11,Percent Off,Email
+C01799,2024-03-20,None,Google Ads
+C01800,2024-07-11,None,Email
+C01801,2024-03-09,Percent Off,Paid Social
+C01802,2024-06-15,Free Shipping,Paid Social
+C01803,2024-07-25,None,Organic
+C01804,2024-11-16,Percent Off,Email
+C01805,2024-08-30,None,Paid Social
+C01806,2024-07-06,Percent Off,Google Ads
+C01807,2024-07-17,None,Email
+C01808,2024-01-29,BOGOF,Organic
+C01809,2024-12-26,None,Paid Social
+C01810,2024-02-15,Percent Off,Google Ads
+C01811,2024-02-23,None,Google Ads
+C01812,2024-02-18,Percent Off,Google Ads
+C01813,2024-04-23,BOGOF,Email
+C01814,2024-05-26,Percent Off,Google Ads
+C01815,2024-08-09,BOGOF,Email
+C01816,2024-07-04,None,Email
+C01817,2024-06-20,Percent Off,Google Ads
+C01818,2024-06-19,Free Shipping,Email
+C01819,2024-04-01,None,Paid Social
+C01820,2024-04-12,Percent Off,Email
+C01821,2024-09-16,BOGOF,Organic
+C01822,2024-07-29,BOGOF,Google Ads
+C01823,2024-10-14,Free Shipping,Email
+C01824,2024-09-22,None,Google Ads
+C01825,2024-10-31,Free Shipping,Paid Social
+C01826,2024-04-02,Percent Off,Google Ads
+C01827,2024-05-04,None,Email
+C01828,2024-01-15,None,Paid Social
+C01829,2024-01-08,None,Paid Social
+C01830,2024-09-20,Free Shipping,Email
+C01831,2024-09-07,BOGOF,Email
+C01832,2024-11-05,None,Email
+C01833,2024-12-12,BOGOF,Google Ads
+C01834,2024-09-13,Free Shipping,Organic
+C01835,2024-08-03,BOGOF,Organic
+C01836,2024-06-18,BOGOF,Organic
+C01837,2024-07-30,Free Shipping,Google Ads
+C01838,2024-09-25,BOGOF,Email
+C01839,2024-11-08,Free Shipping,Email
+C01840,2024-05-29,BOGOF,Paid Social
+C01841,2024-10-30,None,Email
+C01842,2024-10-06,Percent Off,Email
+C01843,2024-02-08,Percent Off,Paid Social
+C01844,2024-08-09,Percent Off,Paid Social
+C01845,2024-11-12,Percent Off,Organic
+C01846,2024-01-04,Percent Off,Paid Social
+C01847,2024-06-10,BOGOF,Email
+C01848,2024-02-13,Percent Off,Paid Social
+C01849,2024-06-21,BOGOF,Paid Social
+C01850,2024-02-23,Percent Off,Paid Social
+C01851,2024-01-09,Percent Off,Paid Social
+C01852,2024-04-09,Percent Off,Paid Social
+C01853,2024-09-20,Percent Off,Google Ads
+C01854,2024-01-07,Free Shipping,Google Ads
+C01855,2024-08-30,BOGOF,Google Ads
+C01856,2024-12-04,Free Shipping,Paid Social
+C01857,2024-01-27,Free Shipping,Google Ads
+C01858,2024-05-11,BOGOF,Email
+C01859,2024-11-29,None,Organic
+C01860,2024-10-26,Percent Off,Google Ads
+C01861,2024-08-23,BOGOF,Paid Social
+C01862,2024-06-17,Percent Off,Google Ads
+C01863,2024-06-27,None,Email
+C01864,2024-05-20,Free Shipping,Organic
+C01865,2024-02-05,None,Paid Social
+C01866,2024-05-28,None,Paid Social
+C01867,2024-09-08,None,Organic
+C01868,2024-07-11,BOGOF,Email
+C01869,2024-03-10,Free Shipping,Organic
+C01870,2024-02-02,Percent Off,Google Ads
+C01871,2024-09-27,Free Shipping,Organic
+C01872,2024-08-15,Percent Off,Paid Social
+C01873,2024-04-21,Percent Off,Google Ads
+C01874,2024-01-11,None,Paid Social
+C01875,2024-03-03,Percent Off,Organic
+C01876,2024-08-19,BOGOF,Google Ads
+C01877,2024-03-06,Percent Off,Paid Social
+C01878,2024-10-19,Free Shipping,Google Ads
+C01879,2024-09-12,None,Paid Social
+C01880,2024-06-12,BOGOF,Google Ads
+C01881,2024-04-01,Free Shipping,Paid Social
+C01882,2024-08-23,BOGOF,Email
+C01883,2024-12-02,None,Google Ads
+C01884,2024-03-05,None,Organic
+C01885,2024-12-02,BOGOF,Organic
+C01886,2024-03-16,None,Organic
+C01887,2024-04-19,None,Organic
+C01888,2024-05-01,Free Shipping,Email
+C01889,2024-02-23,None,Email
+C01890,2024-08-25,None,Organic
+C01891,2024-05-21,Free Shipping,Organic
+C01892,2024-03-12,Percent Off,Email
+C01893,2024-07-09,BOGOF,Email
+C01894,2024-07-06,Percent Off,Google Ads
+C01895,2024-06-06,BOGOF,Organic
+C01896,2024-04-02,None,Organic
+C01897,2024-07-12,Percent Off,Paid Social
+C01898,2024-07-27,Percent Off,Email
+C01899,2024-05-23,None,Google Ads
+C01900,2024-12-26,Percent Off,Paid Social
+C01901,2024-11-09,BOGOF,Paid Social
+C01902,2024-03-02,Free Shipping,Paid Social
+C01903,2024-12-12,Free Shipping,Google Ads
+C01904,2024-12-01,None,Organic
+C01905,2024-10-05,None,Email
+C01906,2024-10-21,None,Email
+C01907,2024-08-09,None,Paid Social
+C01908,2024-12-16,BOGOF,Email
+C01909,2024-10-17,Free Shipping,Email
+C01910,2024-03-14,BOGOF,Google Ads
+C01911,2024-03-02,Percent Off,Organic
+C01912,2024-09-21,None,Organic
+C01913,2024-06-21,None,Google Ads
+C01914,2024-11-17,Percent Off,Organic
+C01915,2024-09-19,Free Shipping,Google Ads
+C01916,2024-07-16,Percent Off,Paid Social
+C01917,2024-05-21,BOGOF,Paid Social
+C01918,2024-02-26,Free Shipping,Paid Social
+C01919,2024-02-22,None,Email
+C01920,2024-10-28,None,Google Ads
+C01921,2024-09-28,None,Organic
+C01922,2024-03-08,None,Paid Social
+C01923,2024-09-03,None,Google Ads
+C01924,2024-07-13,None,Organic
+C01925,2024-06-24,Percent Off,Organic
+C01926,2024-07-01,None,Organic
+C01927,2024-12-21,BOGOF,Email
+C01928,2024-01-16,BOGOF,Email
+C01929,2024-03-26,BOGOF,Paid Social
+C01930,2024-01-24,BOGOF,Paid Social
+C01931,2024-06-04,Free Shipping,Organic
+C01932,2024-04-14,None,Google Ads
+C01933,2024-05-28,Percent Off,Email
+C01934,2024-10-30,Percent Off,Email
+C01935,2024-05-17,BOGOF,Email
+C01936,2024-04-02,Percent Off,Google Ads
+C01937,2024-08-11,Percent Off,Email
+C01938,2024-08-02,BOGOF,Google Ads
+C01939,2024-05-05,None,Paid Social
+C01940,2024-10-19,None,Google Ads
+C01941,2024-12-30,None,Organic
+C01942,2024-04-09,None,Google Ads
+C01943,2024-09-05,Free Shipping,Paid Social
+C01944,2024-03-15,BOGOF,Google Ads
+C01945,2024-03-10,BOGOF,Email
+C01946,2024-08-02,BOGOF,Paid Social
+C01947,2024-06-16,None,Paid Social
+C01948,2024-03-21,BOGOF,Google Ads
+C01949,2024-06-18,BOGOF,Paid Social
+C01950,2024-08-20,None,Google Ads
+C01951,2024-08-04,Free Shipping,Paid Social
+C01952,2024-07-05,Percent Off,Google Ads
+C01953,2024-09-24,BOGOF,Email
+C01954,2024-09-04,Percent Off,Google Ads
+C01955,2024-03-15,BOGOF,Organic
+C01956,2024-12-17,Percent Off,Paid Social
+C01957,2024-06-01,BOGOF,Organic
+C01958,2024-01-26,None,Paid Social
+C01959,2024-05-17,Percent Off,Organic
+C01960,2024-10-07,Percent Off,Paid Social
+C01961,2024-09-23,None,Google Ads
+C01962,2024-07-14,Free Shipping,Organic
+C01963,2024-10-27,BOGOF,Email
+C01964,2024-10-19,Percent Off,Email
+C01965,2024-09-02,Percent Off,Email
+C01966,2024-01-06,None,Email
+C01967,2024-09-27,Free Shipping,Google Ads
+C01968,2024-08-13,None,Organic
+C01969,2024-10-13,BOGOF,Organic
+C01970,2024-07-08,BOGOF,Organic
+C01971,2024-09-17,BOGOF,Organic
+C01972,2024-08-24,Free Shipping,Email
+C01973,2024-04-22,None,Organic
+C01974,2024-09-01,None,Email
+C01975,2024-03-08,None,Paid Social
+C01976,2024-11-02,BOGOF,Email
+C01977,2024-06-12,Free Shipping,Organic
+C01978,2024-03-13,BOGOF,Google Ads
+C01979,2024-10-05,Percent Off,Organic
+C01980,2024-02-19,Percent Off,Email
+C01981,2024-03-11,Percent Off,Organic
+C01982,2024-04-25,Percent Off,Google Ads
+C01983,2024-02-25,BOGOF,Paid Social
+C01984,2024-09-04,None,Organic
+C01985,2024-03-31,BOGOF,Google Ads
+C01986,2024-11-16,BOGOF,Email
+C01987,2024-06-10,Free Shipping,Email
+C01988,2024-11-16,None,Google Ads
+C01989,2024-01-26,BOGOF,Organic
+C01990,2024-08-27,BOGOF,Email
+C01991,2024-06-27,Free Shipping,Organic
+C01992,2024-11-04,Percent Off,Email
+C01993,2024-11-02,BOGOF,Paid Social
+C01994,2024-10-05,None,Google Ads
+C01995,2024-05-11,BOGOF,Organic
+C01996,2024-12-19,Free Shipping,Google Ads
+C01997,2024-07-11,None,Paid Social
+C01998,2024-09-03,BOGOF,Organic
+C01999,2024-06-25,None,Organic
+C02000,2024-10-13,None,Paid Social
