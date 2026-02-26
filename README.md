@@ -63,7 +63,7 @@ Discounts do lead to more repeating customers however it depends on what type of
   -	Customers acquired without any promotion have the lowest repeat rate (25.7%) and the highest proportion of one-time buyers.
 
 So, promotions like BOGOF effectively drive repeat purchases, while some discount types mainly create one-time sales.
-This means businesses should strategically use promotions to balance between acquiring new customers and encouraging repeat business.
+This means Cresent Plc should strategically use promotions to balance between acquiring new customers and encouraging repeat purchases.
 
 Also utilise email as a key marketing tool to drive and encourage more repeating purchases from customers.
 
